@@ -117,75 +117,76 @@ export default function GratisScanPage() {
                         <h1 className="text-4xl font-extrabold text-gray-900 mb-4">
                             Gratis AI & SEO Scan
                         </h1>
-                        We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
-                    </p>
-                </div>
-
-                <div className="bg-white rounded-3xl shadow-xl p-8 border border-gray-100">
-                    <Suspense fallback={<div className="text-center py-10">Laden...</div>}>
-                        <ScanForm onStartScan={startScan} />
-                    </Suspense>
-                </div>
-            </div>
-        </section>
-
-            {/* Waiting Room Modal */ }
-    <AnimatePresence>
-        {isModalOpen && (
-            <motion.div
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                exit={{ opacity: 0 }}
-                className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm"
-            >
-                <motion.div
-                    initial={{ scale: 0.9, opacity: 0 }}
-                    animate={{ scale: 1, opacity: 1 }}
-                    exit={{ scale: 0.9, opacity: 0 }}
-                    className="bg-white rounded-2xl w-full max-w-4xl overflow-hidden shadow-2xl relative"
-                >
-                    {/* Header */}
-                    <div className="bg-blue-600 text-white p-6 flex justify-between items-center">
-                        <div>
-                            <h3 className="text-xl font-bold flex items-center gap-2">
-                                <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white"></div>
-                                AI is je website aan het analyseren...
-                            </h3>
-                            <p className="text-blue-100 text-sm mt-1">Dit duurt ongeveer 1 minuut. Bekijk ondertussen de video.</p>
-                        </div>
-                    </div>
-
-                    {/* Video Container */}
-                    <div className="aspect-video bg-black relative">
-                        <div className="absolute inset-0 flex items-center justify-center text-white/50">
-                            {/* Placeholder for Video */}
-                            <iframe
-                                width="100%"
-                                height="100%"
-                                src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1"
-                                title="Waiting Room Video"
-                                frameBorder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowFullScreen
-                            ></iframe>
-                        </div>
-                    </div>
-
-                    <div className="p-6 bg-gray-50 flex justify-between items-center">
-                        <p className="text-gray-600 text-sm italic">
-                            "Terwijl de AI je site analyseert: Hoe dit systeem werkt."
+                        <p className="text-lg text-gray-600">
+                            We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
                         </p>
-                        <button
-                            onClick={() => setIsModalOpen(false)}
-                            className="text-gray-400 hover:text-gray-600 text-sm underline"
-                        >
-                            Sluiten (Dev Only)
-                        </button>
                     </div>
-                </motion.div>
-            </motion.div>
-        )}
-    </AnimatePresence>
+
+                    <div className="bg-white rounded-3xl shadow-xl p-8 border border-gray-100">
+                        <Suspense fallback={<div className="text-center py-10">Laden...</div>}>
+                            <ScanForm onStartScan={startScan} />
+                        </Suspense>
+                    </div>
+                </div>
+            </section>
+
+            {/* Waiting Room Modal */}
+            <AnimatePresence>
+                {isModalOpen && (
+                    <motion.div
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        exit={{ opacity: 0 }}
+                        className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm"
+                    >
+                        <motion.div
+                            initial={{ scale: 0.9, opacity: 0 }}
+                            animate={{ scale: 1, opacity: 1 }}
+                            exit={{ scale: 0.9, opacity: 0 }}
+                            className="bg-white rounded-2xl w-full max-w-4xl overflow-hidden shadow-2xl relative"
+                        >
+                            {/* Header */}
+                            <div className="bg-blue-600 text-white p-6 flex justify-between items-center">
+                                <div>
+                                    <h3 className="text-xl font-bold flex items-center gap-2">
+                                        <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white"></div>
+                                        AI is je website aan het analyseren...
+                                    </h3>
+                                    <p className="text-blue-100 text-sm mt-1">Dit duurt ongeveer 1 minuut. Bekijk ondertussen de video.</p>
+                                </div>
+                            </div>
+
+                            {/* Video Container */}
+                            <div className="aspect-video bg-black relative">
+                                <div className="absolute inset-0 flex items-center justify-center text-white/50">
+                                    {/* Placeholder for Video */}
+                                    <iframe
+                                        width="100%"
+                                        height="100%"
+                                        src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1"
+                                        title="Waiting Room Video"
+                                        frameBorder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                        allowFullScreen
+                                    ></iframe>
+                                </div>
+                            </div>
+
+                            <div className="p-6 bg-gray-50 flex justify-between items-center">
+                                <p className="text-gray-600 text-sm italic">
+                                    "Terwijl de AI je site analyseert: Hoe dit systeem werkt."
+                                </p>
+                                <button
+                                    onClick={() => setIsModalOpen(false)}
+                                    className="text-gray-400 hover:text-gray-600 text-sm underline"
+                                >
+                                    Sluiten (Dev Only)
+                                </button>
+                            </div>
+                        </motion.div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
 
         </main >
     );
