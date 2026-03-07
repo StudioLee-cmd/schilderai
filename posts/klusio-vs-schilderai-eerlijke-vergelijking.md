@@ -47,7 +47,7 @@ Klusio kost een vast bedrag per maand voor werkbonnen, planning en facturatie. A
 
 SchilderAI bundelt alles in één vast tarief. Minder kosten, minder gedoe, meer resultaat.
 
-Bekijk wat we voor schildersbedrijven doen op onze [gratis scan](/gratis-scan) of [plan een adviesgesprek](https://studiolee.nl).
+Bekijk wat we voor schildersbedrijven doen op onze [gratis scan](/gratis-scan) of [plan een adviesgesprek](https://www.studiolee.nl).
 
 ## De groeicomponent
 
@@ -65,4 +65,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend �
 
 **Groei-of-Geld-Terug Garantie** — Wij voeren op dag 1 een nulmeting uit. Geen groei in bereik of AI-vindbaarheid? Dan krijg je je geld terug. Het risico ligt 100% bij ons.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
