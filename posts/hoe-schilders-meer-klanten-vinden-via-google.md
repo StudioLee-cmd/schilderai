@@ -110,7 +110,7 @@ Jij schildert. Wij regelen de rest:
 
 Meer aanvragen, minder gemiste kansen. Dat is het idee.
 
-**Ontdek wat SchilderAI voor jouw schildersbedrijf kan doen.** Neem contact op via schilderai.nl.
+**Ontdek wat SchilderAI voor jouw schildersbedrijf kan doen.** Neem contact op via [schilderai.nl](https://www.schilderai.nl).
 
 ---
 
