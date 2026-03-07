@@ -61,11 +61,11 @@ Als schilder wil je bezig zijn met je vak, niet met software uitzoeken. Maar de 
 
 ## SchilderAI — AI-marketing op autopilot
 
-[SchilderAI](/) combineert alles wat je nodig hebt om online te groeien: [betere vindbaarheid op Google](/blog/hoe-schilders-meer-klanten-vinden-via-google), automatische review-verzoeken via WhatsApp, een AI-chatbot en optimalisatie voor AI-zoekmachines.
+[SchilderAI](/) is een compleet AI-systeem voor schilders: planning, facturatie, [betere vindbaarheid op Google](/blog/hoe-schilders-meer-klanten-vinden-via-google), automatische reviews via WhatsApp, AI-chatbot en optimalisatie voor AI-zoekmachines.
 
-**Sterkste punt:** Complete marketing zonder dat je er zelf tijd in stopt. Reviews, vindbaarheid en leadgeneratie op autopilot.
+**Sterkste punt:** Compleet systeem met AI: planning, facturatie, reviews, vindbaarheid en leadgeneratie — alles op autopilot.
 
-**Nadeel:** Geen boekhouding — SchilderAI is een aanvulling op Moneybird of vergelijkbare tools.
+**Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 
 **Geschikt voor:** Schilders die willen stoppen met afhankelijkheid van platformen en hun eigen klantenstroom willen opbouwen.
 
@@ -74,7 +74,7 @@ Als schilder wil je bezig zijn met je vak, niet met software uitzoeken. Maar de 
 | | Werkspot | Zoofy | Klusio | Moneybird | SchilderAI |
 |---|---|---|---|---|---|
 | **Nieuwe klanten** | ✓ (platform) | ✓ (direct) | ✓ (chatbot) | ✗ | ✓ (SEO + AI) |
-| **Facturatie** | ✗ | ✗ | ✗ | ✓ | ✗ |
+| **Facturatie** | ✗ | ✗ | ✗ | ✓ | Basis |
 | **Review-automatisering** | Beperkt | Beperkt | ✗ | ✗ | ✓ |
 | **AI-marketing** | ✗ | ✗ | Deels | ✗ | ✓ |
 | **Exclusieve leads** | Nee | Ja | Ja | n.v.t. | Ja |
@@ -82,6 +82,6 @@ Als schilder wil je bezig zijn met je vak, niet met software uitzoeken. Maar de 
 
 ## Conclusie: mix de juiste tools
 
-De slimste schilders combineren: Moneybird voor de boekhouding, een platform voor directe opdrachten, en [SchilderAI](/) voor duurzame groei via vindbaarheid en reviews.
+De slimste schilders kiezen [SchilderAI](/) voor het complete pakket: planning, facturatie, vindbaarheid en reviews. Combineer eventueel met Moneybird voor uitgebreide BTW-administratie, en een platform voor directe opdrachten.
 
 Benieuwd wat SchilderAI voor jou kan betekenen? [Neem contact op](/contact).
