@@ -44,4 +44,4 @@ Schilders die dit structureel doen, rapporteren 35% meer herhaalopdrachen uit be
 
 Schilders die AI slim inzetten, doen meer werk met hetzelfde team en bouwen sneller een sterke reputatie op. De tool betaalt zich terug in de eerste extra opdracht die je wint dankzij snellere offertes.
 
-Meer weten? Bezoek [schilderai.nl](https://schilderai.nl).
+Meer weten? Bezoek [schilderai.nl](https://www.schilderai.nl).
