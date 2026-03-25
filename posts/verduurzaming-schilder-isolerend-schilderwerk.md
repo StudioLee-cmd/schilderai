@@ -21,7 +21,7 @@ Isolerende coatings zijn een relatief nieuwe ontwikkeling in de schildersbranche
 - **Buitengevels**: reflecterende coating houdt de woning koeler in de zomer
 - **Daken**: dakcoatings verlagen de temperatuur in het pand aanzienlijk
 
-Het is geen vervanging voor echte isolatie (daar heb je een [stukadoor](/blog/online-vindbaarheid-stukadoors) voor), maar het is een waardevolle aanvulling. Vooral voor monumentale panden waar traditionele isolatie niet mogelijk is.
+Het is geen vervanging voor echte isolatie (daar heb je een stukadoor voor), maar het is een waardevolle aanvulling. Vooral voor monumentale panden waar traditionele isolatie niet mogelijk is.
 
 ## Duurzame en milieuvriendelijke verven
 
@@ -31,7 +31,7 @@ Naast isolerende coatings is er een groeiende vraag naar milieuvriendelijke verv
 - **Natuurverven**: op basis van lijnolie, kalk of klei — volledig biologisch afbreekbaar
 - **Kringloopverven**: gemaakt van gerecyclede verfresten
 
-Veel klanten weten niet dat deze opties bestaan. Door ze actief aan te bieden, positioneer je jezelf als innovatieve schilder. Vermeld het op je website, in je [offertes](/blog/offertes-schilder-meer-klussen-winnen) en op je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder).
+Veel klanten weten niet dat deze opties bestaan. Door ze actief aan te bieden, positioneer je jezelf als innovatieve schilder. Vermeld het op je website, in je [offertes](/blog/offertes-schilder-meer-klussen-winnen) en op je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder-lokaal).
 
 ## Subsidies en regelingen
 
@@ -48,7 +48,7 @@ Wijs je klanten op deze mogelijkheden. Een schilder die meedenkt over subsidies 
 Verduurzaming moet onderdeel worden van je merk:
 
 - **Website**: maak een pagina over duurzaam schilderwerk met uitleg en referentieprojecten
-- **Social media**: deel voorbeelden van duurzame projecten op [Instagram en Facebook](/blog/social-media-schilders-klanten-werven)
+- **Social media**: deel voorbeelden van duurzame projecten op [Instagram en Facebook](/blog/social-media-schilders-klanten)
 - **Certificeringen**: volg trainingen voor isolerende coatings en vermeld dit op je website
 - **Portfolio**: documenteer elk duurzaam project met [voor-en-na foto's](/blog/portfolio-website-schilder-voor-na-fotos)
 

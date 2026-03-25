@@ -51,7 +51,7 @@ Als schilder wil je bezig zijn met je vak, niet met software uitzoeken. Maar de 
 
 ## Klusio — AI-chatbot voor je website
 
-<a href="https://klusio.nl" rel="nofollow">Klusio</a> zet websitebezoekers om in exclusieve leads via een AI-chatbot. Vaste maandelijkse kosten, geen gedeelde leads. We schreven eerder een [vergelijking tussen Klusio en SchilderAI](/blog/klusio-vs-schilderai-eerlijke-vergelijking-voor-schilders).
+<a href="https://klusio.nl" rel="nofollow">Klusio</a> zet websitebezoekers om in exclusieve leads via een AI-chatbot. Vaste maandelijkse kosten, geen gedeelde leads. We schreven eerder een [vergelijking tussen Klusio en SchilderAI](/blog/klusio-vs-schilderai-eerlijke-vergelijking).
 
 **Sterkste punt:** Exclusieve leads, 24/7 actief.
 

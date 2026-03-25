@@ -34,9 +34,9 @@ Een schilder die vertelt: "Ik ben al twintig jaar schilder in Den Haag, gespecia
 
 Je verhaal vertellen doe je niet alleen aan de keukentafel. Online zichtbaarheid is essentieel om je merk te laten groeien.
 
-**Je website als thuisbasis**. Je [website](/blog/schilder-website) is je digitale visitekaartje. Zorg dat het jouw persoonlijkheid weerspiegelt. Gebruik echte foto's — van jezelf, van je werk, van je team. Geen stockfoto's. Klanten willen weten wie er bij hen thuis komt.
+**Je website als thuisbasis**. Je [website](/blog/leadgeneratie-schilder) is je digitale visitekaartje. Zorg dat het jouw persoonlijkheid weerspiegelt. Gebruik echte foto's — van jezelf, van je werk, van je team. Geen stockfoto's. Klanten willen weten wie er bij hen thuis komt.
 
-**[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder) als etalage**. Je Google-profiel is vaak het eerste dat klanten zien. Zorg voor goede foto's, actuele openingstijden en regelmatige posts. Reageer op elke review — positief of negatief.
+**[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder-lokaal) als etalage**. Je Google-profiel is vaak het eerste dat klanten zien. Zorg voor goede foto's, actuele openingstijden en regelmatige posts. Reageer op elke review — positief of negatief.
 
 **[Social media](/blog/social-media-voor-schilders) als portfolio**. Instagram en Facebook zijn ideaal voor schilders. Deel voor-en-na foto's, timelapse-video's van projecten en tips over kleuren en materialen. Het hoeft niet perfect te zijn — authenticiteit wint van productiewaarde.
 
@@ -58,7 +58,7 @@ Personal branding is geen eenmalige actie maar een doorlopend proces. De schilde
 
 - **Post minstens een keer per week** op social media — ook als het alleen een foto van je werkdag is
 - **Reageer op elke review** binnen 24 uur
-- **Houd je website actueel** — voeg regelmatig nieuwe projecten toe aan je [portfolio](/blog/portfolio-website-schilder)
+- **Houd je website actueel** — voeg regelmatig nieuwe projecten toe aan je [portfolio](/blog/portfolio-website-schilder-voor-na-fotos)
 - **Draag herkenbare werkkleding** — met je bedrijfsnaam erop. Je bent een wandelend reclamebord bij elke klus
 
 Het belangrijkste: wees jezelf. Personal branding werkt alleen als het authentiek is. Speel geen rol, maar versterk wat je al bent.

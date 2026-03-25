@@ -21,7 +21,7 @@ Een schilder die uitstekend werk levert maar slecht communiceert, verliest klant
 
 Het eerste contact bepaalt of de klant bij jou boekt of verder zoekt.
 
-**Reageer binnen een paar uur**. Of het nu via je [website](/blog/schilder-website), telefoon of WhatsApp is — snelheid wint. Een klant die drie schilders benadert, kiest vaak degene die het snelst en duidelijkst reageert.
+**Reageer binnen een paar uur**. Of het nu via je [website](/blog/leadgeneratie-schilder), telefoon of WhatsApp is — snelheid wint. Een klant die drie schilders benadert, kiest vaak degene die het snelst en duidelijkst reageert.
 
 **Stel de juiste vragen**. Vraag niet alleen wat er geschilderd moet worden, maar ook: welke kamers, welke staat de huidige verf, of er kleurkeuze nodig is, en wanneer het klaar moet zijn. Dit laat zien dat je meedenkt.
 

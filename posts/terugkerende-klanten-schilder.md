@@ -21,7 +21,7 @@ De rekensommen zijn simpel. Stel dat je via Google Ads gemiddeld 80 euro betaalt
 
 Een terugkerende klant kost je nul euro aan acquisitie. Sterker nog: tevreden klanten verwijzen je door naar buren, familie en collega's. Een loyale klant levert je over vijf jaar vaak drie tot vijf extra opdrachten op via mond-tot-mondreclame.
 
-Daarnaast zijn terugkerende klanten makkelijker in de omgang. Ze kennen je werkwijze, vertrouwen je advies en hebben geen uitgebreide [offerte-vergelijking](/blog/offerte-schilder-tips) meer nodig. Dat scheelt je tijd bij de voorbereiding en verhoogt je marge.
+Daarnaast zijn terugkerende klanten makkelijker in de omgang. Ze kennen je werkwijze, vertrouwen je advies en hebben geen uitgebreide [offerte-vergelijking](/blog/elite-schilder-app) meer nodig. Dat scheelt je tijd bij de voorbereiding en verhoogt je marge.
 
 ## De Eerste Indruk: Hier Begint Loyaliteit
 
@@ -53,7 +53,7 @@ De klus is af, de factuur betaald, en dan stilte. De meeste schilders hebben gee
 
 ### Het Opleveringsgesprek
 
-Neem vijf minuten de tijd voor een kort gesprek bij de oplevering. Vraag hoe de klant het werk ervaart, of er nog aandachtspunten zijn en geef een onderhoudsadvies. Dit gesprek is ook het perfecte moment om te vragen of ze een [review willen achterlaten](/blog/google-reviews-schilder).
+Neem vijf minuten de tijd voor een kort gesprek bij de oplevering. Vraag hoe de klant het werk ervaart, of er nog aandachtspunten zijn en geef een onderhoudsadvies. Dit gesprek is ook het perfecte moment om te vragen of ze een [review willen achterlaten](/blog/meer-google-reviews-als-schilder).
 
 ### De Follow-up na Drie Maanden
 
@@ -89,7 +89,7 @@ Praktische manieren om doorverwijzingen te stimuleren:
 - **Maak het makkelijk**: stuur een link naar je Google-profiel zodat ze met twee klikken een review kunnen plaatsen
 - **Toon waardering**: een klein bedankje na een doorverwijzing die tot een opdracht leidt
 
-Combineer dit met een sterke [online aanwezigheid](/blog/online-zichtbaarheid-schilder) en je hebt een vliegwiel: goede reviews trekken nieuwe klanten, die weer doorverwijzen.
+Combineer dit met een sterke [online aanwezigheid](/blog/leadgeneratie-schilder) en je hebt een vliegwiel: goede reviews trekken nieuwe klanten, die weer doorverwijzen.
 
 ## De Financiele Impact van Loyale Klanten
 

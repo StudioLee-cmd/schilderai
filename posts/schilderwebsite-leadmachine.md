@@ -25,7 +25,7 @@ De meeste schilderwebsites doen punt 1 matig en punt 2 en 3 nauwelijks. Laten we
 
 Je website kan nog zo goed converteren — als niemand hem vindt, heb je er niets aan. Lokale SEO is het fundament:
 
-- **Google Bedrijfsprofiel** — volledig ingevuld, met foto's van je werk en [sterke reviews](/blog/meer-google-reviews-schilder). Dit profiel verschijnt in de kaartresultaten wanneer iemand "schilder [jouw stad]" zoekt.
+- **Google Bedrijfsprofiel** — volledig ingevuld, met foto's van je werk en [sterke reviews](/blog/meer-google-reviews-als-schilder). Dit profiel verschijnt in de kaartresultaten wanneer iemand "schilder [jouw stad]" zoekt.
 - **Lokale zoekwoorden op je website** — niet alleen "schilder", maar "schilder in Rotterdam", "buitenschilderwerk Den Haag", "kozijnen schilderen Utrecht"
 - **Blogcontent** — artikelen over schilderonderwerpen trekken extra bezoekers. Elk artikel is een extra ingang via Google.
 
@@ -35,7 +35,7 @@ Een bezoeker die op je website landt, beslist binnen 5 seconden of hij blijft of
 
 ### Voor-en-na foto's
 
-Niets overtuigt zo sterk als visueel bewijs van je werk. Toon je beste projecten met kwalitatieve foto's. [Een sterk portfolio](/blog/portfolio-website-schilder-voor-en-na) is je krachtigste verkoopargument.
+Niets overtuigt zo sterk als visueel bewijs van je werk. Toon je beste projecten met kwalitatieve foto's. [Een sterk portfolio](/blog/portfolio-website-schilder-voor-na-fotos) is je krachtigste verkoopargument.
 
 ### Google Reviews op je site
 
@@ -90,4 +90,4 @@ Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen groei in bereik? G
 
 Je schilderwebsite hoeft geen design-award te winnen. Het moet drie dingen doen: gevonden worden, vertrouwen wekken, en het zo makkelijk mogelijk maken om contact op te nemen. Met lokale SEO, sterke visuele bewijskracht en een slim contactformulier maak je van je website een machine die continu offerte-aanvragen genereert.
 
-Lees ook hoe [personal branding als schilder](/blog/personal-branding-schilder) je merk versterkt en hoe je met [email marketing klanten behoudt](/blog/email-marketing-schilders).
+Lees ook hoe [personal branding als schilder](/blog/personal-branding-schilder-regio) je merk versterkt en hoe je met [email marketing klanten behoudt](/blog/email-marketing-schilder-onderhoud).

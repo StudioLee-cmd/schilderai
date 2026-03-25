@@ -77,7 +77,7 @@ Twee regels:
 
 De tone of voice moet passen bij hoe je normaal met klanten praat. Professioneel maar toegankelijk. Geen marketingtaal, geen druk. Je bent een vakman die meedenkt, geen verkoper die targets moet halen.
 
-Combineer e-mail met je andere kanalen: verwijs naar je [website](/blog/terugkerende-klanten-schilder) voor tips, link naar je [Google profiel](/blog/google-bedrijfsprofiel-schilder) voor reviews en deel seizoenstips via [social media](/blog/social-media-voor-schilders).
+Combineer e-mail met je andere kanalen: verwijs naar je [website](/blog/terugkerende-klanten-schilder) voor tips, link naar je [Google profiel](/blog/google-bedrijfsprofiel-schilder-lokaal) voor reviews en deel seizoenstips via [social media](/blog/social-media-voor-schilders).
 
 ## Veelgemaakte fouten
 

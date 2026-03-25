@@ -32,7 +32,7 @@ Woningen die verkocht worden, moeten vaak opgeschilderd worden. Makelaars en ver
 
 - Snelle oplevering (kopers willen snel intrekken)
 - Flexibele planning
-- Portfolio met [voor-en-na foto's](/blog/portfolio-website-schilder-voor-en-na)
+- Portfolio met [voor-en-na foto's](/blog/portfolio-website-schilder-voor-na-fotos)
 
 ### 2. Vastgoedbeheerders en VvE's
 
@@ -52,7 +52,7 @@ Je bestaande klanten zijn je beste verkopers. Maak het officieel:
 
 ### 5. Social media als portfolio
 
-[Instagram en Facebook](/blog/social-media-schilders-meer-klanten) zijn perfecte kanalen voor schilders. Elke klus is visueel content:
+[Instagram en Facebook](/blog/social-media-schilders-klanten) zijn perfecte kanalen voor schilders. Elke klus is visueel content:
 
 - Timelapse video's van het schilderproces
 - [Kleuradvies posts](/blog/kleuradvies-schilder-premium-dienst)
@@ -62,9 +62,9 @@ Je bestaande klanten zijn je beste verkopers. Maak het officieel:
 
 | Online | Offline |
 |--------|---------|
-| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder-bovenaan-lokaal) | Relaties met makelaars |
+| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder-lokaal) | Relaties met makelaars |
 | Website met portfolio | VvE-contacten |
-| [Email marketing](/blog/email-marketing-schilders) | Aannemersnetwerk |
+| [Email marketing](/blog/email-marketing-schilder-onderhoud) | Aannemersnetwerk |
 | Social media | Doorverwijzingsprogramma |
 
 ## Hoe meet je welk kanaal werkt?
@@ -73,7 +73,7 @@ Vraag bij elke nieuwe klant: "Hoe heb je ons gevonden?" Houd dit bij in een simp
 
 ## Laat de leadgeneratie aan specialisten over
 
-Bij StudioLee bouwen we je online aanwezigheid uit zodat leads automatisch binnenkomen. Van [branding](/blog/personal-branding-schilder) tot content marketing — alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee bouwen we je online aanwezigheid uit zodat leads automatisch binnenkomen. Van [branding](/blog/personal-branding-schilder-regio) tot content marketing — alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 
