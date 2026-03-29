@@ -7,8 +7,6 @@ image: "/images/blog/google-bedrijfsprofiel-schilder-lokaal.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 ---
 
-# Google Bedrijfsprofiel als schilder: zo scoor je bovenaan lokaal
-
 Als iemand zoekt op "schilder in de buurt" of "schilder [stadsnaam]", verschijnt eerst het Google Maps-blok met drie bedrijven. Dat is je Google Bedrijfsprofiel — en het is de plek waar de meeste lokale klanten hun keuze maken. Niet op je website, niet op social media, maar in dat kleine kaartje met je naam, reviews en contactgegevens.
 
 Toch laten veel schilders hun profiel onvolledig of verouderd. Dat is een gemiste kans. In dit artikel lees je precies hoe je je Google Bedrijfsprofiel optimaliseert om bovenaan te verschijnen in je regio.

@@ -7,8 +7,6 @@ image: "/images/blog/leadgeneratie-schilder.png"
 tags: ["leadgeneratie", "schilder", "klanten werven"]
 ---
 
-# Leadgeneratie als schilder: nieuwe klanten via slimme kanalen
-
 Als schilder ben je waarschijnlijk bekend met Google en mond-tot-mondreclame als klantenbronnen. Maar wat als die bronnen opdrogen? Een [seizoensdip](/blog/winterdip-schilder-opdrachten-laagseizoen), een Google-update of simpelweg meer concurrentie kan je planning leeg maken.
 
 Slimme schilders bouwen meerdere leadkanalen tegelijk op. In dit artikel ontdek je welke dat zijn.

@@ -7,8 +7,6 @@ image: "/images/blog/schilderprijzen-website-transparantie.png"
 tags: ["prijzen communiceren", "schilder", "website"]
 ---
 
-# Schilderprijzen op je website: transparantie die meer aanvragen oplevert
-
 "Wat kost het om mijn huis te laten schilderen?" Het is de eerste vraag die elke potentiele klant stelt. Toch tonen de meeste schilders geen prijzen op hun [website](/blog/schilderwebsite-leadmachine). "Elk project is anders." Klopt — maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.
 
 ## Waarom klanten afhaken zonder prijsindicatie

@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-schilder.png"
 tags: ["mond-tot-mond", "schilder", "klantwerving"]
 ---
 
-# Mond-tot-mondreclame als schilder: van tevreden klant naar aanbeveling
-
 De meeste schilders krijgen hun beste klussen via mond-tot-mondreclame. Een tevreden klant vertelt het aan de buren, die vertellen het aan vrienden, en voor je het weet heb je een volle agenda zonder een euro aan advertenties te besteden.
 
 Maar mond-tot-mondreclame hoeft niet passief te zijn. Je kunt er actief aan werken. In dit artikel leer je hoe.

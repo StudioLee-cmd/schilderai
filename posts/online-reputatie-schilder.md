@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-schilder.png"
 tags: ["online reputatie", "schilder", "reviews"]
 ---
 
-# Online reputatie als schilder: reviews die klanten over de streep trekken
-
 Wanneer een huiseigenaar een schilder zoekt, googelt die persoon eerst. Ze zien je sterren, lezen je reviews en beslissen in 30 seconden of ze je bellen of doorscrollen. Je online reputatie is het eerste filter — en het is meedogenloos.
 
 In dit artikel leer je hoe je als schilder je online reputatie opbouwt, beschermt en inzet als groeimiddel.

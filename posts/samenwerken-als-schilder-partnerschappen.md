@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-schilder-partnerschappen.png"
 tags: ["samenwerkingen", "schilder", "groei"]
 ---
 
-# Samenwerken als schilder: met partnerschappen naar meer opdrachten
-
 Een schilder die alleen werkt, is afhankelijk van zijn eigen netwerk en online zichtbaarheid. Een schilder die samenwerkt met stukadoors, makelaars en interieurontwerpers, heeft meerdere kanalen die klanten aanleveren. Strategische samenwerkingen zijn de meest onderschatte groeistrategie voor schilders.
 
 ## Waarom samenwerkingen werken voor schilders
@@ -55,7 +53,7 @@ Vastgoedbeheerders beheren tientallen panden die regelmatig moeten worden geschi
 
 Vermeld je partners op je [website](/blog/schilderwebsite-leadmachine). "Wij werken samen met lokale stukadoors en interieurontwerpers." Link naar hun pagina's en vraag hen hetzelfde te doen — dat versterkt je [vindbaarheid](/blog/hoe-schilders-meer-klanten-vinden-via-google).
 
-Deel gezamenlijke projecten op je [social media](/blog/social-media-schilders-instagram-facebook). Een voor-en-na foto van een compleet gerenoveerde kamer met stucwerk en schilderwerk spreekt meer aan dan een alleenstaand schilderproject.
+Deel gezamenlijke projecten op je [social media](/blog/social-media-schilders-klanten). Een voor-en-na foto van een compleet gerenoveerde kamer met stucwerk en schilderwerk spreekt meer aan dan een alleenstaand schilderproject.
 
 ## Meten en evalueren
 
