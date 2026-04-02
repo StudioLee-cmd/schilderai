@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-schilder-partnerschappen.png"
 tags: ["samenwerkingen", "schilder", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Een schilder die alleen werkt, is afhankelijk van zijn eigen netwerk en online zichtbaarheid. Een schilder die samenwerkt met stukadoors, makelaars en interieurontwerpers, heeft meerdere kanalen die klanten aanleveren. Strategische samenwerkingen zijn de meest onderschatte groeistrategie voor schilders.

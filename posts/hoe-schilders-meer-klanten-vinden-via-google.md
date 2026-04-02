@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-schilders-meer-klanten-vinden-via-google.png"
 tags: ["Vindbaarheid", "Google", "Klanten", "Schilder"]
+cluster: "vindbaarheid"
 ---
 
 ## Schilders worden ingehuurd op vertrouwen — en dat begint online

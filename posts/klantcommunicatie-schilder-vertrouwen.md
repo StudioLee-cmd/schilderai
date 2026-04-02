@@ -7,6 +7,7 @@ image: "/images/blog/klantcommunicatie-schilder-vertrouwen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantcommunicatie", "schilder", "vertrouwen"]
+cluster: "klantcommunicatie"
 ---
 
 ## Waarom communicatie het verschil maakt

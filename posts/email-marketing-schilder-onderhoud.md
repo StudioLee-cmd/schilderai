@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-schilder-onderhoud.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "schilder", "klantbehoud"]
+cluster: "email-marketing"
 ---
 
 ## Waarom e-mail het ideale kanaal is voor schilders

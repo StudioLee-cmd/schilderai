@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-schilders.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
+cluster: "voice-ai"
 ---
 
 Het meest frustrerende moment voor een schilder? Je staat net met een volle roller in je hand, of erger nog, je bent aan het lakken en de lak begint al aan te trekken. Het moet NU gebeuren. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooie klus.

@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-schilders-met-ai-meer-werk-binnenhalen.png"
 tags: ["AI", "Automatisering", "Schilders"]
+cluster: "ai-automatisering"
 ---
 
 Een schildersbedrijf runnen vraagt meer dan een vlotte kwast. Je bent ook verkoper, planner, communicator en boekhouder. AI neemt die rollen gedeeltelijk over — zodat jij je kunt richten op het vakwerk.

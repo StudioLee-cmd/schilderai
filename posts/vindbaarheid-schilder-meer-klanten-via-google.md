@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vindbaarheid-schilder-meer-klanten-via-google.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom Google je belangrijkste acquisitiekanaal is

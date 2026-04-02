@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-schilder.png"
 tags: ["online reputatie", "schilder", "reviews"]
+cluster: "online-reputatie"
 ---
 
 Wanneer een huiseigenaar een schilder zoekt, googelt die persoon eerst. Ze zien je sterren, lezen je reviews en beslissen in 30 seconden of ze je bellen of doorscrollen. Je online reputatie is het eerste filter — en het is meedogenloos.

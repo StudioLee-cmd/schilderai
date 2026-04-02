@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verduurzaming-schilder-isolerend-schilderwerk.png"
 tags: ["Verduurzaming", "Duurzaam", "Innovatie"]
+cluster: "verduurzaming"
 ---
 
 ## De duurzaamheidstrend in de schildersbranche

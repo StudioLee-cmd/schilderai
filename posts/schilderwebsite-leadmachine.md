@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schilderwebsite-leadmachine.png"
 tags: ["Website", "Leads", "Groei"]
+cluster: "website-conversie"
 ---
 
 De meeste schilderwebsites zien er netjes uit maar doen weinig. Een mooie foto van een pas geschilderd huis, je telefoonnummer onderaan de pagina, en een "over ons" pagina. Dat was vijf jaar geleden voldoende, maar in 2026 verwachten klanten meer. En als je website niet actief leads genereert, laat je geld op tafel liggen.

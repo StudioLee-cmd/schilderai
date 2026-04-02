@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-schilder-lokaal.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 Als iemand zoekt op "schilder in de buurt" of "schilder [stadsnaam]", verschijnt eerst het Google Maps-blok met drie bedrijven. Dat is je Google Bedrijfsprofiel — en het is de plek waar de meeste lokale klanten hun keuze maken. Niet op je website, niet op social media, maar in dat kleine kaartje met je naam, reviews en contactgegevens.

@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-website-schilder-voor-na-fotos.png"
 tags: ["Schilder", "Portfolio", "Website"]
+cluster: "portfolio"
 ---
 
 ## Waarom schilders hun werk moeten laten zien

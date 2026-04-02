@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-schilder-meer-klussen-winnen.png"
 tags: ["Offertes", "Bedrijfsvoering", "Groei"]
+cluster: "offerte-proces"
 ---
 
 Een goede offerte is meer dan een prijsopgave. Het is je eerste kans om een potentiele klant te overtuigen dat jij de juiste schilder bent. Toch besteden veel schilders te weinig aandacht aan hun offerteproces. Ze rekenen te lang, reageren te laat of sturen een kale prijslijst zonder uitleg.

@@ -7,6 +7,7 @@ image: "/images/blog/terugkerende-klanten-schilder.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["schilder", "klantbehoud", "marketing"]
+cluster: "crm-klantbeheer"
 ---
 
 Een nieuwe klant binnenhalen kost vijf tot zeven keer meer dan een bestaande klant behouden. Toch focussen de meeste schilders zich bijna uitsluitend op het werven van nieuwe opdrachten. Terwijl juist die vaste klanten — de mensen die je elk jaar terugvragen voor onderhoud, een nieuwe kleur of een extra kamer — de ruggengraat vormen van een stabiel schildersbedrijf.

@@ -7,6 +7,7 @@ image: "/images/blog/personal-branding-schilder-regio.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["branding", "schilder", "marketing"]
+cluster: "branding"
 ---
 
 ## Waarom personal branding belangrijk is

@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kleuradvies-schilder-premium-dienst.png"
 tags: ["Schilder", "Kleuradvies", "Premium"]
+cluster: "kleuradvies"
 ---
 
 ## Waarom kleuradvies een kans is

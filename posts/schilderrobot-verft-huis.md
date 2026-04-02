@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schilderrobot-verft-huis.jpg"
 tags: ["1 April", "Reviews", "Automatisering"]
+cluster: "review-automatisering"
 ---
 
 ## De schilderrobot die nooit morst

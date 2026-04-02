@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klusio-vs-schilderai-eerlijke-vergelijking.png"
 tags: ["Tools", "Vergelijking", "Schilders"]
+cluster: "tools-uitleg"
 ---
 
 Als schilder heb je genoeg aan je hoofd zonder ook nog drie verschillende softwarepakketten te moeten beheren. Klusio is een bekende naam voor vaklui, maar is het de juiste keuze voor een schildersbedrijf dat wil groeien? We vergelijken Klusio met SchilderAI.

@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatiseren-schilder.jpg"
 tags: ["Reviews", "Automatisering", "Groei"]
+cluster: "review-automatisering"
 ---
 
 ## Waarom schilders met reviews meer opdrachten winnen

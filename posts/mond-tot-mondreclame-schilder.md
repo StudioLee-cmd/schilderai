@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-schilder.png"
 tags: ["mond-tot-mond", "schilder", "klantwerving"]
+cluster: "mond-tot-mondreclame"
 ---
 
 De meeste schilders krijgen hun beste klussen via mond-tot-mondreclame. Een tevreden klant vertelt het aan de buren, die vertellen het aan vrienden, en voor je het weet heb je een volle agenda zonder een euro aan advertenties te besteden.

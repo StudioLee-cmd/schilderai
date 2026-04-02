@@ -5,6 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-schilders-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
+cluster: "ai-automatisering"
 ---
 
 Het runnen van een schildersbedrijf anno 2026 is topsport. Je bent niet alleen vakspecialist die kozijnen moet lakken en gevels moet verven, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag op de ladder, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, offertes uitwerken en facturen doen.

@@ -5,6 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-klussen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
+cluster: "ai-automatisering"
 ---
 
 Als je zelf een aannemer of vakman zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een schilder 3,4 sterren? Dan scroll je door, want je vertrouwt het niet. Heeft hij 4,9 sterren met 200 reviews? Dan bel je hem direct. In de schildersbranche, waar vertrouwen alles is ("Prutsers" en "beunhazen" zijn helaas een bekend fenomeen), is jouw online reputatie je belangrijkste bezit.
