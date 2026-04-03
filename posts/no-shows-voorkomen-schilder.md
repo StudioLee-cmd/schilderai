@@ -77,6 +77,6 @@ Met een wachtlijst van flex-klanten kun je een slot vaak binnen een dag hervulle
 
 ## Conclusie
 
-No-shows als schilder voorkom je met drie pijlers: automatische herinneringen, een duidelijke voorbereidingschecklist en een professioneel annuleringsbeleid. De investering is klein, de impact groot.
+No-shows als schilder voorkom je met drie pijlers: [automatische herinneringen](/chatbot), een duidelijke voorbereidingschecklist en een professioneel annuleringsbeleid. De investering is klein, de impact groot.
 
 Wil je ontdekken hoe SchilderAI je hele planning en klantcommunicatie automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij schildert.
