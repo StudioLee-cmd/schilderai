@@ -15,7 +15,7 @@ Als je binnen een uur reageert op een offerteaanvraag, is de kans op conversie v
 
 ## Automatische eerste reactie
 
-Je kunt niet altijd direct bellen als je op een ladder staat. Daarom is een automatische eerste reactie essentieel:
+Je kunt niet altijd direct bellen als je op een ladder staat. Daarom is een [automatische eerste reactie](/chatbot) essentieel:
 
 **Via je website:** Klant vult formulier in → automatisch antwoord binnen 1 minuut: "Bedankt voor je aanvraag! Ik neem binnen 2 uur contact op om een inspectie in te plannen."
 
