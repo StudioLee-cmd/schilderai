@@ -49,6 +49,16 @@ Schildersbedrijven die automatische herinneringen gebruiken melden:
 - Professionelere uitstraling ("die is goed georganiseerd")
 - Meer herhaalopdrachten door betere klanttevredenheid
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als schilder.
+
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [reviews](/reviews) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Herinneringen kosten je vijf minuten om in te stellen en besparen je uren per maand aan lege ritten en gemiste afspraken. Het is een van de simpelste verbeteringen met het grootste effect op je bedrijfsvoering.
