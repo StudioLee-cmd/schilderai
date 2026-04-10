@@ -63,4 +63,4 @@ De meeste klanten vinden het prima of zelfs leuk. Ze hebben de review vrijwillig
 
 Reviews verzamelen is stap 1. Ze zichtbaar maken op je website is stap 2. Samen vormen ze een krachtig systeem dat bezoekers omzet in klanten. Elke review die op je website staat, is een stille verkoper die 24 uur per dag werkt.
 
-Wil je weten hoe je [reviews](/reviews) automatisch op je website integreert? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk plan.
+Begin met het actief verzamelen van [Google reviews](/reviews). Wil je weten hoe je [reviews](/reviews) automatisch op je website integreert? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk plan.
