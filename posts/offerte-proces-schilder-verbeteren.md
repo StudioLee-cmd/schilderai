@@ -2,11 +2,11 @@
 title: "Offerteproces verbeteren als schilder: sneller, professioneler, meer opdrachten"
 excerpt: "Je offerte bepaalt of je de klus krijgt. Leer hoe je als schilder sneller en professioneler offreert en meer opdrachten binnenhaalt."
 date: "2026-04-05"
+cluster: "offerte-proces"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-proces-schilder-verbeteren.jpg"
 tags: ["Offertes", "Schilder", "Verkoop"]
 ---
-
 ## De offerte die te laat kwam
 
 Een huiseigenaar wil zijn gevel laten schilderen. Hij vraagt drie offertes aan. Schilder A stuurt dezelfde avond een nette PDF met foto's van vergelijkbaar werk. Schilder B belt de volgende dag terug. Schilder C appt drie dagen later: "Zal ik een keer langskomen om te kijken?"

@@ -2,11 +2,11 @@
 title: "Website als schilder: wat moet erop staan om klanten te trekken?"
 excerpt: "Je website is je digitale visitekaartje. Ontdek welke pagina's en content je als schilder nodig hebt om online klanten binnen te halen."
 date: "2026-04-12"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/website-schilder-wat-moet-erop.jpg"
 tags: ["Vindbaarheid", "Website", "Groei"]
 ---
-
 ## Een website die niks oplevert is weggegooid geld
 
 Veel schilders hebben een website die er netjes uitziet maar niks doet. Geen telefoon gaat over, geen offerteaanvragen komen binnen, geen klant verwijst naar de site. Dat komt niet door het ontwerp. Dat komt door wat er wel en niet op staat.

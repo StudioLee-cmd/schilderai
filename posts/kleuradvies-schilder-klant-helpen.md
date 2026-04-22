@@ -2,11 +2,11 @@
 title: "Kleuradvies geven als schilder: zo help je klanten kiezen"
 excerpt: "Klanten vinden kleuren kiezen lastig. Als schilder kun je daar slim op inspelen. Ontdek hoe kleuradvies je meer opdrachten en betere reviews oplevert."
 date: "2026-04-14"
+cluster: "kleuradvies"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kleuradvies-schilder-klant-helpen.jpg"
 tags: ["Kleuradvies", "Schilder Tips", "Klantrelatie"]
 ---
-
 ## Klanten weten niet wat ze willen
 
 "Ik wil iets warmers, maar niet te donker." Als schilder hoor je dit soort zinnen dagelijks. Klanten hebben een gevoel bij wat ze willen, maar kunnen het niet vertalen naar een specifieke kleur. Ze scrollen uren op Pinterest, kopen proefpotjes die ze nooit gebruiken en twijfelen tot het moment dat jij voor de deur staat.

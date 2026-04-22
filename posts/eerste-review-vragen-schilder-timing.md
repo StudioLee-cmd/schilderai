@@ -2,11 +2,11 @@
 title: "Wanneer vraag je als schilder om een review? De perfecte timing"
 excerpt: "Te vroeg vragen voelt opdringerig, te laat en de klant is het vergeten. Dit is het ideale moment om als schilder een review te vragen."
 date: "2026-04-15"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/eerste-review-vragen-schilder-timing.jpg"
 tags: ["Reviews", "Klantrelatie", "Automatisering"]
 ---
-
 Je hebt net een woonkamer opgeleverd. De klant is enthousiast, loopt door het huis en zegt hoe mooi het geworden is. Precies dat moment wil je vastpakken. Maar een dag later is de klant alweer bezig met meubels terugzetten, en een week later is het enthousiasme gezakt tot "ja, het was prima."
 
 De timing van je review-verzoek bepaalt of je een vijfsterrenreview krijgt of helemaal niets. En het verschil is kleiner dan je denkt: een kwestie van uren, niet dagen.

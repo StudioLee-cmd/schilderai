@@ -2,11 +2,11 @@
 title: "Eerste indruk bij een schilderklant: zo win je de opdracht"
 excerpt: "De eerste indruk bepaalt of je de klus krijgt. Leer hoe je als schilder vanaf het eerste contact vertrouwen opbouwt en meer opdrachten binnenhaalt."
 date: "2026-04-17"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/eerste-indruk-schilderklant-opdracht.jpg"
 tags: ["Leads", "Klantcontact", "Opdrachten"]
 ---
-
 ## Waarom het eerste contact alles bepaalt
 
 Een potentiële klant belt of mailt voor een schilderklus. Binnen die eerste minuten vormt die persoon een oordeel dat de rest van het traject kleurt. Ben je moeilijk bereikbaar, reageer je laat of klink je ongeïnteresseerd? Dan belt de volgende schilder op het lijstje al voordat jij een offerte hebt gestuurd.

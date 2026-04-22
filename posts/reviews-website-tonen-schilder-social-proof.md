@@ -2,11 +2,11 @@
 title: "Reviews op je schilderwebsite tonen: social proof die vertrouwen bouwt"
 excerpt: "Google reviews op je eigen website tonen overtuigt bezoekers sneller. Zo integreer je reviews op je schilderwebsite."
 date: "2026-04-10"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-website-tonen-schilder-social-proof.jpg"
 tags: ["Reviews", "Schilder", "Website"]
 ---
-
 ## Waarom reviews op je website thuishoren
 
 Je hebt 35 Google reviews met een gemiddelde van 4,8 sterren. Fantastisch. Maar hoeveel bezoekers van je website zien die reviews? Alleen de bezoekers die de moeite nemen om naar Google Maps te gaan en je profiel op te zoeken. Dat zijn er weinig.

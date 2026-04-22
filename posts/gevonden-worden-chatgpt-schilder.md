@@ -2,11 +2,11 @@
 title: "Gevonden worden in ChatGPT als schilder: zo werkt het"
 excerpt: "Klanten zoeken steeds vaker via ChatGPT en Perplexity. Ontdek hoe je als schilder opduikt in AI-antwoorden en lokale opdrachten binnenhaalt."
 date: "2026-04-16"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gevonden-worden-chatgpt-schilder.jpg"
 tags: ["AI", "Vindbaarheid", "Schilder"]
 ---
-
 ## Waarom huiseigenaren ChatGPT vragen om een schilder
 
 Marieke uit Utrecht zit op de bank, kijkt naar de afgebladderde kozijnen van haar tussenwoning en pakt haar telefoon. Drie jaar geleden zou ze "schilder Utrecht" hebben gegoogeld en op een handvol blauwe links hebben geklikt. Vandaag opent ze ChatGPT en typt: "Ik zoek een betrouwbare schilder in Utrecht voor buitenwerk aan mijn kozijnen, wat is een redelijke prijs en welke vragen moet ik stellen?"

@@ -2,11 +2,11 @@
 title: "Concurrentieanalyse als schilder: gaten vinden in jouw regio"
 excerpt: "Concurrentieanalyse voor schildersbedrijven: waar de kansen liggen in jouw regio en hoe je ze blootlegt zonder dure software."
 date: "2026-04-21"
+cluster: "concurrentieanalyse"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-schilder-gaten-in-regio.jpg"
 tags: ["Schilder", "Concurrentieanalyse", "Ondernemerschap", "Regiostrategie"]
 ---
-
 De meeste schildersbedrijven kijken één of twee keer per jaar naar hun concurrenten — meestal als het rustig is en paniek toeslaat. Dat is het verkeerde moment en de verkeerde insteek. Een goede concurrentieanalyse is geen defensieve actie bij tegenwind, maar een kwartaalcheck waarmee je de gaten in jouw regio blootlegt: opdrachttypen waar niemand op inzet, klantgroepen die onvoldoende bediend worden, zoekwoorden waarop alleen zwakke vijfde-pagina-pagina's staan.
 
 Deze gids loopt door de vijf gebieden waarop je je schilder-concurrenten moet analyseren, welke gratis tools daarbij helpen, en hoe je van de bevindingen meteen actie maakt — zonder dat je een marketingbureau of businessplan-model nodig hebt. Alles wat hieronder staat kun je als éénmanszaak of klein schildersbedrijf binnen één middag doen.

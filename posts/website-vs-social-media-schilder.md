@@ -2,11 +2,11 @@
 title: "Website of social media: waar vind je als schilder meer klanten?"
 excerpt: "Moet je als schilder investeren in een website, social media of beide? Ontdek welk kanaal je het meeste oplevert en hoe je slim kiest."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/website-vs-social-media-schilder.jpg"
 tags: ["Vindbaarheid", "Website", "Social Media"]
 ---
-
 ## De vraag die elke schilder zich stelt
 
 Je hebt beperkte tijd en een beperkt budget. Je wilt meer klanten, maar waar investeer je in: een professionele website, actief zijn op Instagram en Facebook, of allebei? Het antwoord hangt af van hoe je klanten je nu al vinden en wat je doelen zijn.

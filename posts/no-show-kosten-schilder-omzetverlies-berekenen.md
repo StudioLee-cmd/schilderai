@@ -2,11 +2,11 @@
 title: "No-show kosten als schilder: hoeveel omzet mis je per maand?"
 excerpt: "Elke no-show kost je als schilder meer dan je denkt. Bereken je werkelijke verlies en ontdek hoe je het voorkomt met slimme automatisering."
 date: "2026-04-09"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-schilder-omzetverlies-berekenen.jpg"
 tags: ["No-shows", "Schilder", "Omzet"]
 ---
-
 ## De verborgen kosten van een gemiste afspraak
 
 Als schilder plan je je dagen strak. Materiaal voorbereiden, verf mengen, de bus inladen. Als een klant niet thuis is bij de afgesproken inspectie of oplevering, verlies je meer dan alleen dat uurtje. Je verliest reistijd, brandstof, de kans om een andere klus in te plannen en soms zelfs materiaalkosten als je verf al hebt laten mengen.

@@ -2,11 +2,11 @@
 title: "Annuleringsbeleid als schilder: minder afzeggingen"
 excerpt: "Een goed annuleringsbeleid voorkomt last-minute afzeggingen en beschermt je omzet. Zo stel je het op als schildersbedrijf zonder klanten af te schrikken."
 date: "2026-04-19"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schilder-annuleringsbeleid-minder-afzeggingen.jpg"
 tags: ["Planning", "Groei", "Tips"]
 ---
-
 ## Waarom een annuleringsbeleid geen luxe is
 
 Je hebt een hele dag geblokt voor een schilderklus. Verf ingekocht, stellage geregeld, andere opdrachten afgezegd. En dan belt de klant een uur van tevoren: "We stellen het toch even uit." Zonder annuleringsbeleid heb je nul verhaal. Met een helder beleid heb je afspraken zwart op wit.

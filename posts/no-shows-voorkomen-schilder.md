@@ -2,11 +2,11 @@
 title: "No-shows voorkomen als schilder"
 excerpt: "Klant niet thuis op de afgesproken schilderdag? No-shows verstoren je planning en kosten omzet. Leer hoe je als schilder no-shows voorkomt met bewezen methoden."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-schilder.jpg"
 tags: ["No-shows", "Planning", "Schilder"]
 ---
-
 ## Het probleem met no-shows in de schildersbranche
 
 Schilderwerk vraagt voorbereiding. Je hebt verf gemengd op kleur, materialen ingekocht en misschien zelfs een steiger geregeld. Als de klant niet opendoet of het huis niet toegankelijk is, zit je met een probleem dat verder gaat dan één verloren dag.

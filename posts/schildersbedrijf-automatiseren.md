@@ -2,11 +2,11 @@
 title: "Schildersbedrijf automatiseren: bespaar uren en groei sneller"
 excerpt: "Schilders besteden te veel tijd aan administratie. Leer hoe automatisering je planning, offertes en klantcontact stroomlijnt."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schildersbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Schilder", "Groei"]
 ---
-
 ## De kwast in de ene hand, de laptop in de andere
 
 Als schilder wil je schilderen. Gevels in de lak zetten, interieurs transformeren, kleuradvies geven. Maar de werkelijkheid is anders: 's ochtends klussen, 's avonds achter de computer om offertes te schrijven, facturen te maken en klanten terug te bellen.

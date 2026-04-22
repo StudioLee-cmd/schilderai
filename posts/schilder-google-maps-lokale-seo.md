@@ -2,11 +2,11 @@
 title: "Schilder vindbaar in Google Maps: lokale SEO die echt werkt"
 excerpt: "Hoe kom je als schilder in de top 3 van Google Maps? Een complete gids met concrete stappen voor lokale vindbaarheid en meer aanvragen."
 date: "2026-04-08"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schilder-google-maps-lokale-seo.jpg"
 tags: ["SEO", "Google Maps", "Schilder"]
 ---
-
 ## Waarom Google Maps het belangrijkste verkoopkanaal is voor schilders
 
 Iemand wil zijn huis laten schilderen. Wat doet hij? Niet Werkspot openen, niet de Telefoongids erbij pakken. Hij typt "schilder [stad]" in Google. Boven de zoekresultaten verschijnt een kaart met drie schildersbedrijven. Daar klikt hij op. De rest van de zoekresultaten? Krijgt 80 procent minder kliks.

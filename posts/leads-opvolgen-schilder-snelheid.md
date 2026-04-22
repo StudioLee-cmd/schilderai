@@ -2,11 +2,11 @@
 title: "Leads opvolgen als schilder: snelheid wint"
 excerpt: "De schilder die het eerste belt na een offerteaanvraag, wint de klus. Ontdek hoe je als schilder sneller en slimmer leads opvolgt."
 date: "2026-04-03"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-schilder-snelheid.jpg"
 tags: ["Leads", "Lead opvolging", "Schilder", "Offertes"]
 ---
-
 ## De eerste die belt, wint
 
 Schilderwerk is een van de meest bevraagde vakgebieden. Klanten vragen gemiddeld drie tot vijf offertes aan. Ze kiezen niet per se de goedkoopste — ze kiezen de schilder die het snelst reageert, het duidelijkst communiceert en het meeste vertrouwen wekt.

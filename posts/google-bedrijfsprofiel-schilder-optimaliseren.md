@@ -2,11 +2,11 @@
 title: "Google Bedrijfsprofiel als schilder: zo val je op"
 excerpt: "Je Google Bedrijfsprofiel is het eerste wat klanten zien. Ontdek hoe je als schilder je profiel optimaliseert en bovenaan verschijnt in de zoekresultaten."
 date: "2026-04-12"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-schilder-optimaliseren.jpg"
 tags: ["Vindbaarheid", "Google", "Groei"]
 ---
-
 ## Je Google Bedrijfsprofiel bepaalt wie er belt
 
 Als iemand zoekt naar "schilder [plaatsnaam]" verschijnt het lokale drieluik: drie bedrijven met hun adres, reviews en telefoonnummer. De meeste mensen bellen direct vanuit dat overzicht. Als jij daar niet tussen staat, bel jij niet.

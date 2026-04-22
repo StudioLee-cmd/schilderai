@@ -2,11 +2,11 @@
 title: "Specialisatie kiezen als schilder: 5 niches die meer omzet per dag opleveren"
 excerpt: "Waarom generalistische schilders altijd op uurprijs concurreren en gespecialiseerde schilders dagtarieven kunnen vragen. Plus 5 niches die nu groeien in Nederland."
 date: "2026-04-22"
+cluster: "specialisatie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schilder-specialisatie-niches-meer-omzet.jpg"
 tags: ["Schilder", "Specialisatie", "Bedrijfsstrategie", "Omzet"]
 ---
-
 Twee schilders in dezelfde buurt. Schilder A schildert alles: binnen, buiten, kozijnen, radiatoren, een schuur, een keer een schutting. Zijn uurtarief ligt op €45. Schilder B schildert alleen historische panden en monumentenwerk. Zijn dagtarief is €650 en zijn agenda zit drie maanden vol. Dat verschil komt niet door harder werken. Dat komt door specialisatie.
 
 De meeste schilders zijn generalistisch opgeleid en blijven dat hun hele carrière. Dat is prima zolang de regio genoeg werk biedt en de concurrentie beperkt is. Maar zodra er meer dan tien schilders in je stad actief zijn, verandert het spel: klanten gaan vergelijken op prijs, en als iedereen ongeveer hetzelfde aanbiedt, win je op €5 per uur of je wint niet. Specialisatie breekt die vergelijking: bij een specialist kunnen klanten je niet meer op prijs vergelijken, omdat niemand anders precies dat doet wat jij doet.

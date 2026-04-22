@@ -2,11 +2,11 @@
 title: "Offerte opvolgen als schilder: van vrijblijvend naar opdracht"
 excerpt: "Stuur je offertes maar hoor je niks terug? Leer hoe je als schilder je offertes opvolgt en meer opdrachten binnenhaalt zonder opdringerig over te komen."
 date: "2026-04-11"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-opvolgen-schilder-opdracht.jpg"
 tags: ["Leads", "Offertes", "Groei"]
 ---
-
 ## Waarom de meeste offertes onbeantwoord blijven
 
 Je bent langs geweest, hebt de klus bekeken, een nette offerte gestuurd en dan... stilte. Na een week hoor je nog niks. Na twee weken begin je te twijfelen of je de opdracht kwijt bent.

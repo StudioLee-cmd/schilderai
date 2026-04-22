@@ -2,11 +2,11 @@
 title: "Leads online binnenhalen als schilder: van website naar opdracht"
 excerpt: "Je website kan je beste verkoper worden. Leer hoe schilders online structureel leads genereren en omzetten in opdrachten."
 date: "2026-04-06"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schilder-leads-online-binnenhalen.jpg"
 tags: ["Marketing", "Schilder", "Leads"]
 ---
-
 ## Je website staat er, maar doet niets
 
 De meeste schilders hebben een website. Een paar pagina's met foto's van hun werk, een contactformulier en een telefoonnummer. Maar die website levert weinig tot geen klanten op. Niet omdat de website slecht is, maar omdat niemand hem vindt.

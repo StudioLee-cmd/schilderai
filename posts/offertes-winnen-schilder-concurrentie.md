@@ -2,11 +2,11 @@
 title: "Offertes winnen als schilder: hoe je opvalt tussen de concurrentie"
 excerpt: "Klanten vragen drie offertes aan. Ontdek hoe je als schilder de offerte schrijft die het vaakst gekozen wordt."
 date: "2026-04-18"
+cluster: "offerte-proces"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-winnen-schilder-concurrentie.jpg"
 tags: ["Offertes", "Klanten", "Groei"]
 ---
-
 ## Waarom de goedkoopste offerte zelden wint
 
 De meeste schilders denken dat de laagste prijs de klus wint. Dat klopt niet. Klanten die drie offertes aanvragen, kiezen in de meeste gevallen niet de goedkoopste maar degene die het meeste vertrouwen wekt. Vertrouwen ontstaat door duidelijkheid, snelheid en professionaliteit in je offerte.

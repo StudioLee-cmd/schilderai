@@ -2,11 +2,11 @@
 title: "Afspraakherinneringen voor schilders: minder gemiste afspraken"
 excerpt: "Klanten vergeten afspraken, jij rijdt voor niks. Automatische herinneringen via WhatsApp lossen dit op voor schildersbedrijven."
 date: "2026-04-05"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-schilder.jpg"
 tags: ["Herinneringen", "Schilder", "Planning"]
 ---
-
 ## De inspectie die niet doorging
 
 Je hebt een uur vrijgemaakt voor een inspectie, bent naar het adres gereden en de bewoner is niet thuis. Weer een gat in je planning. Als schilder heb je te maken met twee soorten afspraken die misgaan:

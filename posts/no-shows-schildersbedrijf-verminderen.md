@@ -2,11 +2,11 @@
 title: "No-shows verminderen als schilder: concrete aanpak"
 excerpt: "Elke gemiste afspraak kost je als schilder honderden euro's. Leer hoe je no-shows vermindert met herinneringen, aanbetalingen en slimme planning."
 date: "2026-04-07"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-schildersbedrijf-verminderen.jpg"
 tags: ["No-shows", "Planning", "Schilder"]
 ---
-
 ## Het stille probleem van elk schildersbedrijf
 
 Je staat om 08:00 voor de deur met je bus vol materiaal. Ladders, afplaktape, grondverf, alles mee. De klant reageert niet op aanbellen. Je belt: voicemail. Na een kwartier wachten rijd je weg. De ochtend is verpest.

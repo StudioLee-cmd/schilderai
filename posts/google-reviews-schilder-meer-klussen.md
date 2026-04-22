@@ -2,11 +2,11 @@
 title: "Google Reviews als schilder: zo krijg je meer klussen"
 excerpt: "Google Reviews maken het verschil tussen een volle en een lege agenda als schilder. Leer hoe je automatisch meer reviews verzamelt en je concurrentie voorblijft."
 date: "2026-04-04"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-schilder-meer-klussen.jpg"
 tags: ["Reviews", "Schilder", "Reputatie"]
 ---
-
 ## De kracht van reviews in de schildersbranche
 
 Als schilder concurreer je niet alleen op prijs en kwaliteit — je concurreert op vertrouwen. Klanten laten je in hun huis, vaak wekenlang. Ze willen vooraf zeker weten dat je betrouwbaar bent, netjes werkt en op tijd komt. Google Reviews zijn de snelste manier om dat vertrouwen op te bouwen.
