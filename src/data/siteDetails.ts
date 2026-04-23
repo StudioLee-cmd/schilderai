@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Schilders',
     siteUrl: 'https://www.schilderai.nl/',
     metadata: {
-        title: 'SchilderAI - De slimme assistent voor jouw schildersbedrijf',
+        title: 'SchilderAI - AI voor jouw schildersbedrijf',
         description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. SchilderAI regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-NL',
