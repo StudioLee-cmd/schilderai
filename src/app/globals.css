@@ -134,3 +134,62 @@ h6 {
 ::view-transition-group(root) {
   animation-duration: 0.7s;
 }
+
+
+/* === Wait list mode (sold brand) === */
+.waitlist-banner {
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+  background: #14110d;
+  color: #f5f1e8;
+  text-align: center;
+  padding: 0.85rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.45;
+  letter-spacing: 0.02em;
+}
+.waitlist-banner a {
+  color: #ffd166;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+/* Hide pricing CTAs but keep prices visible */
+#pricing button,
+#pricing form,
+#pricing input[type="submit"],
+#pricing-tiers button,
+#pricing-tiers form,
+#credit-pricing button,
+#credit-pricing form,
+#credit-pricing input[type="submit"],
+[id*="pricing"] form button,
+section[id*="pricing"] button[type="submit"] {
+  display: none !important;
+}
+
+/* Hide any external booking/checkout link */
+a[href*="calendly.com"],
+a[href*="cal.com"],
+a[href*="tally.so"],
+a[href*="stripe.com/pay"],
+a[href*="checkout"] {
+  display: none !important;
+}
+
+/* Show waitlist text in pricing column footer where buttons used to be */
+#pricing .pricing-cta-replace::after,
+#credit-pricing .pricing-cta-replace::after {
+  content: "Wachtlijst — email tim@studiolee.nl";
+  display: block;
+  padding: 0.85rem 1rem;
+  margin-top: 1rem;
+  text-align: center;
+  font-weight: 600;
+  color: #14110d;
+  background: #f5f1e8;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(20,17,13,0.1);
+}

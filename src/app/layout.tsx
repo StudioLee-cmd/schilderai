@@ -58,6 +58,11 @@ export default function RootLayout({
       <body
         className={`${manrope.className} ${sourceSans.className} ${outfit.variable} ${caveat.variable} antialiased`}
       >
+        <div className="waitlist-banner" role="status">
+          Currently there&apos;s a wait list. Please email{' '}
+          <a href="mailto:tim@studiolee.nl">tim@studiolee.nl</a>{' '}
+          for more information.
+        </div>
         <ThemeProvider>
           {siteDetails.googleAnalyticsId && <GoogleAnalytics gaId={siteDetails.googleAnalyticsId} />}
           <Header />
@@ -67,7 +72,27 @@ export default function RootLayout({
           <Footer />
           <Analytics />
         </ThemeProvider>
-          <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
+        <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
+        <Script id="waitlist-mode" strategy="afterInteractive">{`
+          (function(){
+            const intercept = (e) => {
+              const t = e.target && e.target.closest && e.target.closest('button, a');
+              if (!t) return;
+              if (t.closest('.waitlist-banner') || t.closest('header') || t.closest('nav')) return;
+              if (t.getAttribute('data-allow') === 'true') return;
+              const text = (t.innerText || t.textContent || '').toLowerCase().trim();
+              const href = (t.getAttribute('href') || '').toLowerCase();
+              const sale = /(start gratis|gratis start|gratis proberen|gratis trial|free trial|plan een|book a call|book a demo|kies pakket|kies dit pakket|abonneren|aanmelden|registreer|betaal|bestel|nu kopen|koop nu|begin|aan de slag)/.test(text)
+                || /calendly\\.com|tally\\.so|checkout|stripe\\.com\\/pay/.test(href);
+              if (sale) {
+                e.preventDefault();
+                e.stopImmediatePropagation();
+                window.location.href = 'mailto:tim@studiolee.nl?subject=Wachtlijst%20-%20' + encodeURIComponent(document.title);
+              }
+            };
+            document.addEventListener('click', intercept, true);
+          })();
+        `}</Script>
       </body>
     </html>
   );
