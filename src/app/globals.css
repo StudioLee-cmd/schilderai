@@ -193,3 +193,10 @@ a[href*="checkout"] {
   border-radius: 0.6rem;
   border: 1px solid rgba(20,17,13,0.1);
 }
+
+/* Wait list mode — hide Hero CTAs (Start Gratis + Voice Demo) */
+#hero button,
+#hero [role="button"],
+#hero a[href]:not([href^="#"]):not([href^="mailto:"]) {
+  display: none !important;
+}
