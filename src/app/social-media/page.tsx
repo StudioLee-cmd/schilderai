@@ -5,8 +5,8 @@ import SocialMediaContent from "./SocialMediaContent";
 const niche = siteDetails.siteName.replace(/AI$/i, "").toLowerCase();
 
 export const metadata: Metadata = {
-  title: `Social Media voor ${niche}s | Strategie & Uitvoering | ${siteDetails.siteName}`,
-  description: `Social media strategie en uitvoering voor ${niche}s. Content planning, AI-gegenereerde posts, automatisch scheduling en maandelijkse analyse. Inclusief consulting.`,
+  title: `Social Media voor ${niche}s | Strategie & Uitvoering`,
+  description: `Social media voor ${niche}s: content planning, AI-gegenereerde posts, automatische scheduling en maandelijkse analyse — inclusief consulting.`,
   openGraph: {
     title: `Social Media voor ${niche}s | ${siteDetails.siteName}`,
     description: `Volledige social media strategie + uitvoering voor ${niche}s. Van content planning tot automatisch posten. Consulting inbegrepen.`,

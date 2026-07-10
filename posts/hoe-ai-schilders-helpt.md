@@ -1,5 +1,5 @@
 ---
-title: "Hoe AI Schilders Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)"
+title: "Hoe AI schilders tijd bespaart (je concurrentie is al om)"
 excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van schilders kan automatiseren. Van admin tot planning: dit is je nieuwe digitale opzichter."
 date: "2025-12-15"
 authorSlug: "tim-van-der-lee"

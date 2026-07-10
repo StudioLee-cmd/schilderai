@@ -1,5 +1,5 @@
 ---
-title: "Social Media voor Schilders die een Hekel hebben aan Social Media (De \"Luie Methode\")"
+title: "Social media voor schilders die er een hekel aan hebben"
 excerpt: "Geen dansjes op TikTok. Gewoon je vakmanschap tonen. Met onze AI bouw je een portfolio op Instagram in 5 seconden per week."
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,5 @@
 ---
-title: "Social media voor schilders: meer klanten werven via Instagram en Facebook"
+title: "Social media schilders: klanten via Instagram en Facebook"
 excerpt: "Ontdek hoe schilders social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor schilders in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

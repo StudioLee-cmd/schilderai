@@ -1,6 +1,6 @@
 ---
 title: "Schilder offerte-doorlooptijd inkorten van 14 naar 3 werkdagen"
-excerpt: "De klant die drie offertes aanvraagt, kiest zelden de langzaamste. Dit artikel legt uit hoe je offerte-doorlooptijd van 14 naar 3 werkdagen brengt zonder aan kwaliteit in te leveren."
+excerpt: "Zo breng je je offerte-doorlooptijd als schilder van 14 naar 3 werkdagen terug zonder kwaliteitsverlies — de klant kiest zelden de langzaamste."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schilder-offerte-doorlooptijd-inkorten.jpg"
@@ -61,7 +61,7 @@ Door alleen te rijden voor bezichtigingen die het waard zijn, haal je fase 2 in 
 
 De derde tijdwinst zit in de offerte-administratie zelf. Veel schilders maken elke offerte min of meer vanaf nul: werkomschrijving, materiaalkeuze, uren-inschatting, prijs-opbouw. Dat kost 45 tot 90 minuten per offerte.
 
-Met een goede offerte-template met standaard-onderdelen (systemen voor binnenwerk, buitenwerk, renovatie, onderhoud) en een per-klustype standaardopbouw schrijf je een offerte in 10 tot 20 minuten. De chatbot-intake vult de variabele velden automatisch. Prijsopbouw wordt gebaseerd op een tarievenmatrix die je één keer per half jaar bijwerkt. Lees onze aanpak voor [offertes opvolgen als schilder](/blog/offertes-opvolgen-schilder-meer-opdrachten) voor de hele workflow.
+Met een goede offerte-template met standaard-onderdelen (systemen voor binnenwerk, buitenwerk, renovatie, onderhoud) en een per-klustype standaardopbouw schrijf je een offerte in 10 tot 20 minuten. De chatbot-intake vult de variabele velden automatisch. Prijsopbouw wordt gebaseerd op een tarievenmatrix die je één keer per half jaar bijwerkt. Lees onze aanpak voor [offertes opvolgen als schilder](/blog/offerte-opvolgen-schilder-opdracht) voor de hele workflow.
 
 ## Wat de drie veranderingen samen opleveren
 
@@ -80,7 +80,7 @@ Voor een doorsnee MKB-schildersbedrijf met 30.000 tot 60.000 euro maandomzet is 
 
 **AI chatbot zonder foto-upload-verplicht stappen.** Zonder foto's heb je 60 procent van de input. Maak foto's verplicht in de intake-flow — je laatste stap voor de chatbot een antwoord geeft.
 
-**Offerte-template die generiek voelt.** Een template met gaps voor persoonlijke details blijft professioneel. Een template waar klanten zien dat ze maar een nummer in een systeem zijn, voelt lelijk. Investeer in een goede template-esthetiek. Lees onze aanpak voor [prijzen communiceren op je schilder-website](/blog/schilder-prijzen-website-transparantie) voor hoe je open prijssignalen geeft zonder je marge weg te geven.
+**Offerte-template die generiek voelt.** Een template met gaps voor persoonlijke details blijft professioneel. Een template waar klanten zien dat ze maar een nummer in een systeem zijn, voelt lelijk. Investeer in een goede template-esthetiek. Lees onze aanpak voor [prijzen communiceren op je schilder-website](/blog/schilderprijzen-website-transparantie) voor hoe je open prijssignalen geeft zonder je marge weg te geven.
 
 ## Waar begin je
 

@@ -1,5 +1,5 @@
 ---
-title: "Het Einde van de \"Telefoon op de Steiger\": 24/7 Bereikbaar Zonder Personeel"
+title: "Einde van de telefoon op de steiger: 24/7 bereikbaar"
 excerpt: "Mis nooit meer een klus omdat je op de ladder staat. Onze Voice AI neemt op, plant bezichtigingen en beantwoordt vragen. Veilig en winstgevend."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

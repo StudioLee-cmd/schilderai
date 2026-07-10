@@ -16,7 +16,7 @@ export const authors: IAuthor[] = [
         slug: 'tim-van-der-lee',
         name: 'Tim van der Lee',
         role: 'Founder & AI Expert',
-        bio: 'Tim is de oprichter van SchilderAI en specialist in AI-automatisering voor schildersbedrijven. Met jarenlange ervaring in technologie en ondernemerschap helpt hij schilders om efficiënter te werken door slimme automatisering.',
+        bio: 'Tim is de oprichter van SchilderAI en specialist in AI-automatisering voor schildersbedrijven — hij helpt schilders efficiënter werken met slimme automatisering.',
         image: '/images/authors/tim-van-der-lee.jpg',
         social: {
             email: 'tim@schilderai.nl'

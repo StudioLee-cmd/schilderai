@@ -12,14 +12,14 @@ export const testimonials: ITestimonial[] = [
         name: 'Sandra Pietersen',
         role: 'Pietersen Schilderwerken, Amsterdam',
         message: 'Als vrouwelijke ondernemer in de schildersbranche moet je extra je mannetje staan. SchilderAI geeft me de professionele uitstraling die ik nodig heb. Klanten denken dat ik een groot kantoor heb!',
-        avatar: '/images/testimonials/testimonial-2.jpg',
+        avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
         name: 'Marco de Bruin',
         role: 'De Bruin Afbouw & Schilderwerk, Rotterdam',
         message: 'Ik was sceptisch over AI voor mijn schildersbedrijf, maar de resultaten liegen niet. Mijn agenda zit voller dan ooit en ik hoef niet meer zelf te bellen na werktijd.',
-        avatar: '/images/testimonials/testimonial-3.jpg',
+        avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {
@@ -33,14 +33,14 @@ export const testimonials: ITestimonial[] = [
         name: 'Lisa van Dijk',
         role: 'Van Dijk Vastgoedonderhoud, Den Haag',
         message: 'We onderhouden honderden woningen per jaar. Sinds we SchilderAI gebruiken is het aantal gemiste oproepen naar nul gegaan. De AI plant bezichtigingen terwijl wij op de ladder staan.',
-        avatar: '/images/testimonials/testimonial-2.jpg',
+        avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
         name: 'René Bakker',
         role: 'Bakker & Zonen Schilders, Groningen',
         message: 'De social media AI is geniaal. Ik stuur een foto van een mooi afgewerkte gevel en de rest gaat vanzelf. Mijn Instagram groeit en ik krijg er klanten door.',
-        avatar: '/images/testimonials/testimonial-3.jpg',
+        avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {
@@ -54,14 +54,14 @@ export const testimonials: ITestimonial[] = [
         name: 'Anouk Smeets',
         role: 'Smeets Schilderwerk & Behang, Breda',
         message: 'Klanten bellen mij nu omdat ze op Google zien dat ik 4,9 sterren heb met 150+ reviews. Dat had ik nooit voor elkaar gekregen zonder de automatische review-uitnodigingen.',
-        avatar: '/images/testimonials/testimonial-2.jpg',
+        avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
         name: 'Jan-Willem Verhoeven',
         role: 'Verhoeven Totaalonderhoud, Arnhem',
         message: 'Het Elite pakket met de eigen app is een gamechanger. Mijn vaste aannemers melden klussen nu via de app. Geen WhatsApp-chaos meer, gewoon alles netjes op één plek.',
-        avatar: '/images/testimonials/testimonial-3.jpg',
+        avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {

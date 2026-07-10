@@ -1,8 +1,8 @@
 ---
-title: "Klantcommunicatie als schilder: zo bouw je vertrouwen van offerte tot oplevering"
+title: "Klantcommunicatie als schilder: vertrouwen tot oplevering"
 slug: "klantcommunicatie-schilder-vertrouwen"
 date: "2026-03-23"
-excerpt: "Klanten beoordelen je niet alleen op je schilderwerk, maar ook op hoe je communiceert. Ontdek hoe je als schilder vertrouwen opbouwt door professioneel te communiceren."
+excerpt: "Klanten beoordelen je niet alleen op schilderwerk maar ook op communicatie. Zo bouw je als schilder vertrouwen op van offerte tot oplevering."
 image: "/images/blog/klantcommunicatie-schilder-vertrouwen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

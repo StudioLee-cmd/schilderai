@@ -1,5 +1,5 @@
 ---
-title: "De Elite Schilder App: Geef je klanten hun eigen \"Klus App\" (En bind B2B klanten)"
+title: "De Elite Schilder App: geef klanten hun eigen klus-app"
 excerpt: "Onderscheid jezelf van de prutsers. Met de Client App in het Elite plan kunnen jouw vaste klanten (Aannemers, woningbouw) zelf meldingen doen en status inzien."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"

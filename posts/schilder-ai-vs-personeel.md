@@ -1,5 +1,5 @@
 ---
-title: "SchilderAI vs. Kantoorpersoneel: Waarom meer betalen als het minder oplevert?"
+title: "SchilderAI vs. kantoorpersoneel: waarom meer betalen?"
 excerpt: "De harde cijfers. Waarom zou je €3000 per maand betalen aan personeel als AI het beter kan voor een fractie van de prijs?"
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"

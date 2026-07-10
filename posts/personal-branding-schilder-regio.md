@@ -1,5 +1,5 @@
 ---
-title: "Personal branding als schilder: zo wordt jouw naam het merk in de regio"
+title: "Personal branding schilder: jouw naam als merk in de regio"
 slug: "personal-branding-schilder-regio"
 date: "2026-03-22"
 excerpt: "Als schilder concurreer je met tientallen collega's in je regio. Personal branding helpt je opvallen en de schilder worden waar klanten specifiek om vragen."

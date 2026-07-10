@@ -1,5 +1,5 @@
 ---
-title: "Een portfolio-website als schilder: hoe voor-en-na foto's je meer klanten opleveren"
+title: "Portfolio-website schilder: voor-en-na foto's die verkopen"
 excerpt: "Schilderwerk is visueel — maar de meeste schilders laten hun werk niet zien online. Met een portfolio-website en goede foto's trek je meer klanten."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"

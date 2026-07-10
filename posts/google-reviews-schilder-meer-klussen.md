@@ -1,6 +1,6 @@
 ---
 title: "Google Reviews als schilder: zo krijg je meer klussen"
-excerpt: "Google Reviews maken het verschil tussen een volle en een lege agenda als schilder. Leer hoe je automatisch meer reviews verzamelt en je concurrentie voorblijft."
+excerpt: "Google Reviews maken het verschil tussen een volle en lege agenda. Zo verzamel je als schilder automatisch meer reviews dan je concurrentie."
 date: "2026-04-04"
 cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"

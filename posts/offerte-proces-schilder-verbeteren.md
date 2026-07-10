@@ -1,5 +1,5 @@
 ---
-title: "Offerteproces verbeteren als schilder: sneller, professioneler, meer opdrachten"
+title: "Offerteproces verbeteren: sneller meer opdrachten winnen"
 excerpt: "Je offerte bepaalt of je de klus krijgt. Leer hoe je als schilder sneller en professioneler offreert en meer opdrachten binnenhaalt."
 date: "2026-04-05"
 cluster: "offerte-proces"

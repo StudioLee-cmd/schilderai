@@ -1,5 +1,5 @@
 ---
-title: "Online reputatie als schilder: reviews die klanten over de streep trekken"
+title: "Online reputatie schilder: reviews die klanten trekken"
 excerpt: "Je online reputatie bepaalt of nieuwe klanten jou bellen. Leer hoe je als schilder reviews verzamelt en je imago beschermt."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

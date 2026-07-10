@@ -1,5 +1,5 @@
 ---
-title: "Schilderprijzen op je website: transparantie die meer aanvragen oplevert"
+title: "Schilderprijzen op je website: transparantie die oplevert"
 excerpt: "Moet je als schilder prijzen op je website tonen? Ontdek hoe transparantie meer en betere aanvragen oplevert."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

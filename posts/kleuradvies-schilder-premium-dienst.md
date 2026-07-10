@@ -1,5 +1,5 @@
 ---
-title: "Kleuradvies als schilder: zo maak je van een simpele klus een premium dienst"
+title: "Kleuradvies als schilder: maak er een premium dienst van"
 excerpt: "De meeste schilders laten klanten zelf een kleur kiezen. Maar kleuradvies als service bieden verhoogt je opdracht en marge aanzienlijk."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

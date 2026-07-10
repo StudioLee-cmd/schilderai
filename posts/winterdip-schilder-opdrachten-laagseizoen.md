@@ -1,5 +1,5 @@
 ---
-title: "De winterdip als schilder overbruggen: zo houd je opdrachten in het laagseizoen"
+title: "Winterdip als schilder: opdrachten in het laagseizoen"
 excerpt: "Als schilder ken je de winterdip: minder buitenwerk, minder aanvragen. Ontdek hoe je ook in het laagseizoen een volle agenda houdt."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

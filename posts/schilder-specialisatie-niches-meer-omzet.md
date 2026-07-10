@@ -1,6 +1,6 @@
 ---
-title: "Specialisatie kiezen als schilder: 5 niches die meer omzet per dag opleveren"
-excerpt: "Waarom generalistische schilders altijd op uurprijs concurreren en gespecialiseerde schilders dagtarieven kunnen vragen. Plus 5 niches die nu groeien in Nederland."
+title: "Specialisatie als schilder: 5 niches met meer omzet per dag"
+excerpt: "Waarom generalisten op uurprijs concurreren en gespecialiseerde schilders dagtarieven vragen — plus 5 niches die nu groeien in Nederland."
 date: "2026-04-22"
 cluster: "specialisatie"
 authorSlug: "tim-van-der-lee"
