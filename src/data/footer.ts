@@ -27,8 +27,7 @@ export const footerDetails: {
     email: 'tim@schilderai.nl',
     telephone: '+31612345678',
     socials: {
-        instagram: 'https://www.instagram.com',
-        linkedin: 'https://www.linkedin.com',
+        youtube: 'https://www.youtube.com/@DIGITAL.STUDIOLEE',
     },
     kvk: '98933353',
     btw: 'NL005362803B09',
