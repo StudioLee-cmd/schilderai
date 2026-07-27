@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Kan ik het eerst proberen?",
-        answer: "Jazeker! Je kunt 14 dagen gratis uitproberen met het Basic plan. Geen creditcard nodig, geen verplichtingen. Je ervaart zelf hoe SchilderAI je dagelijks helpt.",
+        answer: "Jazeker! Je kunt 14 dagen uitproberen met het Basic plan voor eenmalig €1. Geen verplichtingen. Je ervaart zelf hoe SchilderAI je dagelijks helpt.",
     },
     {
         question: "Werkt SchilderAI ook voor grotere schildersbedrijven?",

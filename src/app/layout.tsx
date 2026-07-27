@@ -82,7 +82,7 @@ export default function RootLayout({
               if (t.getAttribute('data-allow') === 'true') return;
               const text = (t.innerText || t.textContent || '').toLowerCase().trim();
               const href = (t.getAttribute('href') || '').toLowerCase();
-              const sale = /(start gratis|gratis start|gratis proberen|gratis trial|free trial|plan een|book a call|book a demo|kies pakket|kies dit pakket|abonneren|aanmelden|registreer|betaal|bestel|nu kopen|koop nu|begin|aan de slag)/.test(text)
+              const sale = /(start gratis|start nu|start voor|start mijn|proefperiode|14 dagen voor|gratis start|gratis proberen|gratis trial|free trial|plan een|book a call|book a demo|kies pakket|kies dit pakket|abonneren|aanmelden|registreer|betaal|bestel|nu kopen|koop nu|begin|aan de slag)/.test(text)
                 || /calendly\\.com|\\/\\/cal\\.com|tally\\.so|checkout|stripe\\.com\\/pay/.test(href);
               if (sale) {
                 e.preventDefault();
