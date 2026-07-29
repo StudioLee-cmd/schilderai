@@ -95,4 +95,4 @@ Je Google Bedrijfsprofiel is het eerste wat potentiële klanten zien wanneer ze 
 
 Begin vandaag: claim je profiel, vul alles in, upload foto's van je laatste project, en vraag je volgende klant om een review. De resultaten zul je binnen weken merken.
 
-Wil je hulp bij het optimaliseren van je online zichtbaarheid? Bekijk wat [SchilderAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
+Wil je hulp bij het optimaliseren van je online zichtbaarheid? Bekijk wat [SchilderAI](/) voor je kan betekenen.

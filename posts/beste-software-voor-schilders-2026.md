@@ -82,5 +82,3 @@ Als schilder wil je bezig zijn met je vak, niet met software uitzoeken. Maar de 
 ## Conclusie: mix de juiste tools
 
 De slimste schilders kiezen [SchilderAI](/) voor het complete pakket: planning, facturatie, vindbaarheid en reviews. Combineer eventueel met Moneybird voor uitgebreide BTW-administratie, en een platform voor directe opdrachten.
-
-Benieuwd wat SchilderAI voor jou kan betekenen? [Plan een gratis gesprek](https://cal.com/studiolee).
