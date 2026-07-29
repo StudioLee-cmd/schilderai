@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 
 import { heroDetails } from '@/data/hero';
 import Highlight from './Highlight';
-import VoiceDemo from './VoiceDemo';
 import StartChoiceModal from './StartChoiceModal';
 import LightRays from './LightRays';
 import { motion, useScroll, useTransform } from 'framer-motion';
@@ -135,7 +134,6 @@ const Hero: React.FC = () => {
                         >
                             Start Nu
                         </button>
-                        <VoiceDemo />
                     </div>
                 </motion.div>
 
