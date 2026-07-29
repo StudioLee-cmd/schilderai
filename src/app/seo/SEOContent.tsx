@@ -177,22 +177,7 @@ export default function SEOContent() {
             transition={{ delay: 0.2 }}
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
-            <Link
-              href="/gratis-scan"
-              className="inline-flex items-center gap-2 bg-primary text-black font-bold py-4 px-8 rounded-full hover:scale-105 transition-transform shadow-lg"
-            >
-              Gratis SEO Scan
-              <BsArrowRight />
-            </Link>
-            <a
-              href="https://wa.me/31611594862"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-green-500 text-white font-bold py-4 px-8 rounded-full hover:bg-green-600 transition-colors shadow-lg"
-            >
-              <BsWhatsapp size={20} />
-              WhatsApp ons
-            </a>
+            <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
           </motion.div>
         </div>
       </section>
@@ -513,23 +498,8 @@ export default function SEOContent() {
               </p>
 
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <a
-                  href="https://cal.com/studiolee"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-3 bg-white text-blue-700 font-bold py-4 px-8 rounded-full hover:bg-gray-100 transition-all hover:scale-105 shadow-lg group"
-                >
-                  <BsCalendarCheck size={20} />
-                  Plan Gratis Adviesgesprek
-                  <BsArrowRight className="group-hover:translate-x-1 transition-transform" />
-                </a>
-                <Link
-                  href="/tarieven"
-                  className="inline-flex items-center gap-2 text-white font-semibold py-4 px-8 rounded-full border-2 border-white/30 hover:border-white/60 transition-colors"
-                >
-                  Bekijk tarieven
-                </Link>
-              </div>
+            <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
+          </div>
             </div>
           </motion.div>
         </div>

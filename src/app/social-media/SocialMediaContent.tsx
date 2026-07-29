@@ -78,12 +78,7 @@ export default function SocialMediaContent() {
             transition={{ delay: 0.3 }}
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
-            <a href="/gratis-scan" className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all">
-              Start Gratis
-            </a>
-            <a href="/tarieven" className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all">
-              Bekijk Tarieven
-            </a>
+            <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
           </motion.div>
         </div>
       </section>
@@ -299,21 +294,8 @@ export default function SocialMediaContent() {
             Begin vandaag met een plan dat past bij jouw {nicheSingular}sbedrijf. Geen verplichtingen, geen druk.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="/gratis-scan" className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all">
-              Start Gratis
-            </a>
-            <a href="https://cal.com/studiolee" className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2">
-              <BsCalendar3 /> Plan een Gesprek
-            </a>
-            <a href="https://wa.me/31611594862" className="border border-green-500/30 text-green-500 px-8 py-3 rounded-xl font-semibold hover:bg-green-500/10 transition-all inline-flex items-center justify-center gap-2">
-              <BsWhatsapp /> WhatsApp
-            </a>
+            <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
           </div>
-          <p className="text-sm text-foreground-accent mt-6">
-            <a href="/tarieven" className="text-primary hover:underline inline-flex items-center gap-1">
-              Bekijk alle tarieven <BsArrowRight />
-            </a>
-          </p>
         </div>
       </section>
 

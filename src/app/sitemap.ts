@@ -18,17 +18,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
         : STATIC_LASTMOD
 
     // Static routes — rarely change. Stable lastmod.
+    // De transactie-routes staan sinds 29-07 dicht (307 → /, zie next.config.mjs). Ze horen
+    // daarom NIET meer in de sitemap: een sitemap die 3XX serveert is een site-health-bug.
     const staticPages = [
-        '/gratis-scan', '/review-pakket',
-        '/tarieven', '/gratis-website',
         '/chatbot', '/voice-ai', '/seo', '/reviews', '/social-media',
         '/privacy', '/legal', '/algemene-voorwaarden',
     ]
     const staticRoutes = staticPages.map((route) => ({
         url: `${baseUrl}${route}`,
         lastModified: STATIC_LASTMOD,
-        changeFrequency: (route === '/tarieven' || route === '/gratis-website') ? 'monthly' as const : 'yearly' as const,
-        priority: (route === '/tarieven' || route === '/gratis-website') ? 0.9 : 0.7,
+        changeFrequency: 'yearly' as const,
+        priority: 0.7,
     }))
 
     // Homepage — gets a "fresh" signal whenever a new article is published

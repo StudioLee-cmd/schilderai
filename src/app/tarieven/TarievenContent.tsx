@@ -71,16 +71,16 @@ const customOptions = [
   {
     name: "One-Time Build",
     price: "Vanaf €1.000",
-    description: "Volledig custom gebouwd. Eenmalige investering, geen maandelijkse kosten. Betaal alleen voor gebruik (Vapi/OpenAI).",
+    description: "Volledig custom gebouwd. Eenmalige investering, geen maandelijkse kosten.",
     cta: "Vraag Offerte Aan",
-    ctaLink: "https://cal.com/studiolee",
+    ctaLink: "/blog",
   },
   {
     name: "Full-Service",
     price: "Op maat prijs",
     description: "Alles uit Elite + maatwerk. Het complete pakket voor marketingsucces.",
     cta: "Neem Contact Op",
-    ctaLink: "https://cal.com/studiolee",
+    ctaLink: "/blog",
   },
 ];
 
@@ -295,24 +295,7 @@ export default function TarievenContent() {
             Begin met een gratis website design of plan een vrijblijvend gesprek. Geen verplichtingen, geen druk.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="/gratis-website"
-              className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
-            >
-              Gratis Website Design
-            </a>
-            <a
-              href="https://cal.com/studiolee"
-              className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2"
-            >
-              <BsCalendar3 /> Plan een Gesprek
-            </a>
-            <a
-              href="https://wa.me/31611594862"
-              className="border border-green-500/30 text-green-500 px-8 py-3 rounded-xl font-semibold hover:bg-green-500/10 transition-all inline-flex items-center justify-center gap-2"
-            >
-              <BsWhatsapp /> WhatsApp
-            </a>
+            <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
           </div>
         </div>
       </section>

@@ -14,15 +14,12 @@ export const footerDetails: {
     subheading: "Focus op het schilderwerk, wij op de rest. Wij regelen je telefoontjes, planning en marketing, zodat jij kunt doen waar je goed in bent.",
     quickLinks: [
         { text: "Functies", url: "/#features" },
-        { text: "Tarieven", url: "/tarieven" },
-        { text: "Gratis Scan", url: "/gratis-scan" },
         { text: "Blog", url: "/blog" },
         { text: "Chatbot voor Schilders", url: "/chatbot" },
         { text: "Voice AI voor Schilders", url: "/voice-ai" },
         { text: "SEO voor Schilders", url: "/seo" },
         { text: "Social Media", url: "/social-media" },
-        { text: "Reviews", url: "/reviews" },
-        { text: "Review Pakket", url: "/review-pakket" }
+        { text: "Reviews", url: "/reviews" }
     ],
     email: 'tim@schilderai.nl',
     telephone: '+31612345678',

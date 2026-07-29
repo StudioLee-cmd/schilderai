@@ -150,22 +150,7 @@ export default function VoiceAIContent() {
             transition={{ delay: 0.3 }}
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
-            <a
-              href="https://cal.com/studiolee"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
-            >
-              <BsCalendar3 /> Plan een Gratis Gesprek
-            </a>
-            <a
-              href="https://wa.me/31611594862"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 border border-green-500/30 text-green-500 px-8 py-3 rounded-xl font-semibold hover:bg-green-500/10 transition-all"
-            >
-              <BsWhatsapp /> WhatsApp
-            </a>
+            <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
           </motion.div>
         </div>
       </section>
@@ -409,33 +394,8 @@ export default function VoiceAIContent() {
             jouw {nicheSingular}sbedrijf 24/7 bereikbaar maakt — zonder extra personeel.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="/gratis-scan"
-              className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
-            >
-              Gratis AI Scan
-            </a>
-            <a
-              href="https://cal.com/studiolee"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2"
-            >
-              <BsCalendar3 /> Plan een Gesprek
-            </a>
-            <a
-              href="https://wa.me/31611594862"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="border border-green-500/30 text-green-500 px-8 py-3 rounded-xl font-semibold hover:bg-green-500/10 transition-all inline-flex items-center justify-center gap-2"
-            >
-              <BsWhatsapp /> WhatsApp
-            </a>
+            <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
           </div>
-          <p className="text-sm text-foreground-accent mt-6">
-            Of bekijk eerst onze{" "}
-            <a href="/tarieven" className="text-primary hover:underline">tarieven</a>
-          </p>
         </div>
       </section>
 

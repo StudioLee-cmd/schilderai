@@ -57,6 +57,6 @@ export const reviewPackages: IReviewPackage[] = [
         ],
         highlight: false,
         buttonText: 'Plan Strategie Call',
-        buttonLink: 'https://cal.com/studiolee'
+        buttonLink: '/blog'
     }
 ];

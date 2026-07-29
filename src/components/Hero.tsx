@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 
 import { heroDetails } from '@/data/hero';
 import Highlight from './Highlight';
-import StartChoiceModal from './StartChoiceModal';
 import LightRays from './LightRays';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import RotatingText from './RotatingText';
@@ -128,12 +127,7 @@ const Hero: React.FC = () => {
                     </div>
 
                     <div className="flex flex-col sm:flex-row items-center sm:items-start justify-center gap-4">
-                        <button
-                            onClick={() => setIsModalOpen(true)}
-                            className="flex items-center justify-center min-w-[205px] px-8 h-14 rounded-full text-black bg-primary text-xl font-bold hover:scale-105 transition-transform duration-300 shadow-xl hover:shadow-2xl hover:ring-4 ring-primary/20"
-                        >
-                            Start Nu
-                        </button>
+                        <a href="/blog" className="inline-flex items-center justify-center gap-2 border-2 border-current px-8 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">Lees onze artikelen</a>
                     </div>
                 </motion.div>
 
@@ -156,7 +150,6 @@ const Hero: React.FC = () => {
                 </motion.div>
             </div>
 
-            <StartChoiceModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
         </section >
     );
 };

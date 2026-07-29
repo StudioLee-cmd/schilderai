@@ -123,9 +123,6 @@ export default function GratisWebsiteContent() {
                     <span className="font-semibold text-primary">€79/mnd</span>
                   </div>
                 </div>
-                <a href="/tarieven" className="inline-flex items-center gap-1 text-primary text-sm font-semibold mt-3 hover:underline">
-                  Bekijk alle tarieven <BsArrowRight />
-                </a>
               </motion.div>
             </div>
 

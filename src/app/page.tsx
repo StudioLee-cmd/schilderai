@@ -1,8 +1,6 @@
 import React from "react";
 import Hero from "@/components/Hero";
 import Testimonials from "@/components/Testimonials";
-import Pricing from "@/components/Pricing/Pricing";
-import CreditPricing from "@/components/CreditPricing";
 import FAQ from "@/components/FAQ";
 import Logos from "@/components/Logos";
 import Benefits from "@/components/Benefits/Benefits";
@@ -14,7 +12,6 @@ import CostComparison from "@/components/CostComparison/CostComparison";
 import FallingText from "@/components/FallingText";
 
 import USPPillars from "@/components/USPPillars";
-import SetupSupport from "@/components/SetupSupport";
 
 import type { Metadata } from 'next';
 
@@ -34,21 +31,7 @@ const HomePage: React.FC = () => {
 
         <CostComparison />
 
-        <SetupSupport />
-
       </Container>
-
-      {/* Full Width Pricing Section */}
-      <Section
-        id="pricing"
-        title="Tarieven"
-        description="Eerlijke, transparante prijzen. Geen verrassingen."
-      >
-        <Pricing />
-        <Container>
-          <CreditPricing />
-        </Container>
-      </Section>
 
       <Container>
 

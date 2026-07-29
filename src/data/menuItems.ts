@@ -10,20 +10,7 @@ export const menuItems: IMenuItem[] = [
             { text: "SEO voor Schilders", url: "/seo" },
             { text: "Social Media voor Schilders", url: "/social-media" },
             { text: "Reviews voor Schilders", url: "/reviews" },
-            { text: "Review Pakket", url: "/review-pakket" },
         ]
-    },
-    {
-        text: "Tarieven",
-        url: "/tarieven"
-    },
-    {
-        text: "Gratis Scan",
-        url: "/gratis-scan"
-    },
-    {
-        text: "Gratis Website",
-        url: "/gratis-website"
     },
     {
         text: "Blog",

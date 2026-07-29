@@ -90,15 +90,6 @@ export default function ReviewPage() {
                                 Plan een gratis strategie gesprek van 15 minuten. We kijken samen wat voor jouw situatie de meeste reviews gaat opleveren.
                             </p>
 
-                            <a
-                                href="https://cal.com/studiolee"
-                                target="_blank"
-                                className="inline-flex items-center gap-3 bg-white text-blue-700 dark:text-orange-700 font-bold py-4 px-8 rounded-full hover:bg-gray-100 transition-all hover:scale-105 shadow-lg group"
-                            >
-                                <BsCalendarCheck size={20} />
-                                Plan Gratis Consult
-                                <BsArrowRight className="group-hover:translate-x-1 transition-transform" />
-                            </a>
                         </div>
                     </div>
                 </div>

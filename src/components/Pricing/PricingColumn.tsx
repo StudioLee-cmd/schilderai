@@ -97,16 +97,6 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                 {/* Button Logic based on ctaType */}
                 {ctaType === 'call' ? (
                     <div className="space-y-3">
-                        <a
-                            href="https://cal.com/studiolee"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold block text-center",
-                                { "bg-primary hover:bg-primary-accent text-black": highlight, "bg-gray-900 dark:bg-gray-700 text-white hover:opacity-80": !highlight }
-                            )}
-                        >
-                            Boek een Demo
-                        </a>
                         <p className="text-xs text-[var(--foreground-accent)] text-center">
                             Gratis strategie gesprek
                         </p>

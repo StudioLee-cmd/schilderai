@@ -62,21 +62,6 @@ const StartChoiceModal: React.FC<StartChoiceModalProps> = ({ isOpen, onClose }) 
                     {/* Options */}
                     <div className="flex flex-col gap-4">
                         {/* Option 1: Gratis Scan */}
-                        <Link
-                            href="/gratis-scan"
-                            onClick={onClose}
-                            className="flex items-start gap-4 p-5 border-2 border-gray-200 dark:border-gray-700 rounded-xl hover:border-primary hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-all group"
-                        >
-                            <span className="text-3xl">📊</span>
-                            <div>
-                                <h3 className="font-bold text-gray-900 dark:text-white text-lg group-hover:text-primary transition-colors">
-                                    Gratis Readiness Scan
-                                </h3>
-                                <p className="text-gray-500 dark:text-gray-400 text-sm mt-1">
-                                    Ontdek in 2 minuten wat AI voor jouw bedrijf kan betekenen. Gratis en vrijblijvend.
-                                </p>
-                            </div>
-                        </Link>
 
                         {/* Option 2: Pricing / Free Trial */}
                         <a
