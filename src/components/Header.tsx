@@ -76,14 +76,6 @@ const Header: React.FC = () => {
                             </li>
                         ))}
                         <li>
-                            <button
-                                onClick={() => setIsModalOpen(true)}
-                                className="text-black bg-primary hover:bg-primary-accent px-6 py-2 rounded-full transition-colors flex items-center justify-center whitespace-nowrap"
-                            >
-                                Start Nu
-                            </button>
-                        </li>
-                        <li>
                             <AnimatedThemeToggler />
                         </li>
                     </ul>
@@ -141,14 +133,6 @@ const Header: React.FC = () => {
                                 )}
                             </li>
                         ))}
-                        <li>
-                            <button
-                                onClick={() => { setIsModalOpen(true); toggleMenu(); }}
-                                className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit"
-                            >
-                                Start Nu
-                            </button>
-                        </li>
                     </ul>
                 </div>
             </Transition>

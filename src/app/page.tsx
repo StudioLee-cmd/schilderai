@@ -8,7 +8,6 @@ import Container from "@/components/Container";
 import Section from "@/components/Section";
 
 
-import CostComparison from "@/components/CostComparison/CostComparison";
 import FallingText from "@/components/FallingText";
 
 import USPPillars from "@/components/USPPillars";
@@ -28,8 +27,6 @@ const HomePage: React.FC = () => {
       <USPPillars />
       <Container>
         <Benefits />
-
-        <CostComparison />
 
       </Container>
 
