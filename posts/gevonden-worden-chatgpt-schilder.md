@@ -72,7 +72,7 @@ AI-modellen kijken niet alleen naar je website. Ze kijken naar wat anderen over 
 
 Een schildersbedrijf met 80+ Google-reviews boven 4,5 sterren wordt structureel vaker genoemd in AI-antwoorden dan een bedrijf met 12 reviews. Datzelfde geldt voor vermeldingen op Werkspot, Trustpilot, Mijn Schilder of branche-platforms. AI-modellen behandelen al die signalen als een stem van vertrouwen. Drie reviews per maand actief verzamelen tilt je in een jaar boven 80, en dat is het kantelpunt waar zichtbaarheid begint te verdubbelen. Je kunt dit grotendeels automatiseren via [reviews verzamelen via WhatsApp](/reviews) na elke afgeronde klus.
 
-Vergeet je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder-optimaliseren) ook niet: foto's, openingstijden, dienstcategorieën en geregelde posts vertellen AI dat je een actief, lokaal opererend bedrijf bent.
+Vergeet je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-schilder-lokaal) ook niet: foto's, openingstijden, dienstcategorieën en geregelde posts vertellen AI dat je een actief, lokaal opererend bedrijf bent.
 
 ## Vermeldingen buiten je eigen website
 

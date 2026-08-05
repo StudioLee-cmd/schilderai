@@ -23,6 +23,7 @@ const nextConfig = {
             { source: '/blog/meer-klussen-met-ai', destination: '/blog/meer-google-reviews-als-schilder', permanent: true },
             { source: '/blog/google-reviews-schilder-meer-klussen', destination: '/blog/meer-google-reviews-als-schilder', permanent: true },
             { source: '/blog/vindbaarheid-schilder-meer-klanten-via-google', destination: '/blog/hoe-schilders-meer-klanten-vinden-via-google', permanent: true },
+            { source: '/blog/google-bedrijfsprofiel-schilder-optimaliseren', destination: '/blog/google-bedrijfsprofiel-schilder-lokaal', permanent: true },
         ];
     },
 };
