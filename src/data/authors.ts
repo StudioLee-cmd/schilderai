@@ -1,3 +1,5 @@
+
+import { publicContacts } from "@/data/publicContacts";
 export interface IAuthor {
     slug: string;
     name: string;
@@ -19,7 +21,7 @@ export const authors: IAuthor[] = [
         bio: 'Tim is de oprichter van SchilderAI en specialist in AI-automatisering voor schildersbedrijven — hij helpt schilders efficiënter werken met slimme automatisering.',
         image: '/images/authors/tim-van-der-lee.jpg',
         social: {
-            email: 'tim@schilderai.nl'
+            email: publicContacts.primary.email
         }
     }
 ];

@@ -1,3 +1,5 @@
+
+import { publicContacts } from "@/data/publicContacts";
 import type { Metadata } from "next";
 import { GoogleAnalytics } from '@next/third-parties/google';
 import { Source_Sans_3, Manrope, Caveat, Outfit } from "next/font/google";
@@ -60,7 +62,7 @@ export default function RootLayout({
       >
         <div className="waitlist-banner" role="status">
           Currently there&apos;s a wait list. Please email{' '}
-          <a href="mailto:tim@studiolee.nl">tim@studiolee.nl</a>{' '}
+          <a href={("mailto:" + publicContacts.primary.email)}>{publicContacts.primary.email}</a>{' '}
           for more information.
         </div>
         <ThemeProvider>
@@ -73,26 +75,7 @@ export default function RootLayout({
           <Analytics />
         </ThemeProvider>
         <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
-        <Script id="waitlist-mode" strategy="afterInteractive">{`
-          (function(){
-            const intercept = (e) => {
-              const t = e.target && e.target.closest && e.target.closest('button, a');
-              if (!t) return;
-              if (t.closest('.waitlist-banner') || t.closest('header') || t.closest('nav')) return;
-              if (t.getAttribute('data-allow') === 'true') return;
-              const text = (t.innerText || t.textContent || '').toLowerCase().trim();
-              const href = (t.getAttribute('href') || '').toLowerCase();
-              const sale = /(start gratis|start nu|start voor|start mijn|proefperiode|14 dagen voor|gratis start|gratis proberen|gratis trial|free trial|plan een|book a call|book a demo|kies pakket|kies dit pakket|abonneren|aanmelden|registreer|betaal|bestel|nu kopen|koop nu|begin|aan de slag)/.test(text)
-                || /calendly\\.com|\\/\\/cal\\.com|tally\\.so|checkout|stripe\\.com\\/pay/.test(href);
-              if (sale) {
-                e.preventDefault();
-                e.stopImmediatePropagation();
-                window.location.href = 'mailto:tim@studiolee.nl?subject=Wachtlijst%20-%20' + encodeURIComponent(document.title);
-              }
-            };
-            document.addEventListener('click', intercept, true);
-          })();
-        `}</Script>
+        <Script id="waitlist-mode" strategy="afterInteractive">{("\n          (function(){\n            const intercept = (e) => {\n              const t = e.target && e.target.closest && e.target.closest('button, a');\n              if (!t) return;\n              if (t.closest('.waitlist-banner') || t.closest('header') || t.closest('nav')) return;\n              if (t.getAttribute('data-allow') === 'true') return;\n              const text = (t.innerText || t.textContent || '').toLowerCase().trim();\n              const href = (t.getAttribute('href') || '').toLowerCase();\n              const sale = /(start gratis|start nu|start voor|start mijn|proefperiode|14 dagen voor|gratis start|gratis proberen|gratis trial|free trial|plan een|book a call|book a demo|kies pakket|kies dit pakket|abonneren|aanmelden|registreer|betaal|bestel|nu kopen|koop nu|begin|aan de slag)/.test(text)\n                || /calendly\\.com|\\/\\/cal\\.com|tally\\.so|checkout|stripe\\.com\\/pay/.test(href);\n              if (sale) {\n                e.preventDefault();\n                e.stopImmediatePropagation();\n                window.location.href = 'mailto:" + publicContacts.primary.email + "?subject=Wachtlijst%20-%20' + encodeURIComponent(document.title);\n              }\n            };\n            document.addEventListener('click', intercept, true);\n          })();\n        ")}</Script>
       </body>
     </html>
   );
