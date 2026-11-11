@@ -64,6 +64,6 @@ Klusio is solide voor basisadministratie. Maar als schildersbedrijf dat wil groe
 
 Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
-**Groei-of-Geld-Terug Garantie** — Wij voeren op dag 1 een nulmeting uit. Geen groei in bereik of AI-vindbaarheid? Dan krijg je je geld terug. Het risico ligt 100% bij ons.
+Geen groei in bereik of AI-vindbaarheid? Het risico ligt 100% bij ons.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.

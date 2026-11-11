@@ -57,4 +57,4 @@ Google reviews zijn meer dan een ego-boost. Ze bepalen direct of nieuwe klanten 
 
 ## Begin vandaag
 
-Elk project dat je oplevert zonder review-verzoek is een gemiste kans. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je automatisch reviews verzamelt na elke klus. Groei-of-Geld-Terug Garantie.
+Elk project dat je oplevert zonder review-verzoek is een gemiste kans. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je automatisch reviews verzamelt na elke klus.

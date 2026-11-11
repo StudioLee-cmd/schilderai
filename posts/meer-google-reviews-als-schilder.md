@@ -81,8 +81,6 @@ En het mooiste: je hoeft er maar **15 minuten per maand** aan te besteden. Dat i
 
 Lees ook hoe je [meer klanten via Google](/blog/hoe-schilders-meer-klanten-vinden-via-google) om je volledige online strategie te versterken.
 
-## Groei-of-Geld-Terug Garantie
-
 Wij geloven zo sterk in ons systeem dat we een garantie bieden:
 
 - **Nulmeting op dag 1** — je ziet precies waar je staat in je dashboard

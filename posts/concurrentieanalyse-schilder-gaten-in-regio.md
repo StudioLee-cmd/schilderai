@@ -82,6 +82,4 @@ Voor social media geeft de business-view van Instagram al veel inzicht. Meer gea
 
 Als je deze analyse niet zelf wilt doen: een [gratis scan](/gratis-scan) van jouw regio geeft je in één keer een overzicht van jouw top-concurrenten per zoekterm, hun sterke en zwakke punten, en drie concrete acties die je direct kunt uitvoeren. Dat scheelt je de drie uur die de handmatige analyse kost.
 
-## Groei-of-Geld-Terug Garantie
-
-Als je na drie maanden van gerichte acties op basis van concurrentieanalyse geen meetbare stijging in aanvragen of winstmarge ziet, krijg je je investering terug. Wil je direct aan de slag, bekijk de [tarieven](/tarieven) voor onze managed service waarin we de kwartaalanalyse en de daaruit voortkomende acties voor je uitvoeren. Jij schildert, wij regelen de rest.
+Wil je direct aan de slag, bekijk de [tarieven](/tarieven) voor onze managed service waarin we de kwartaalanalyse en de daaruit voortkomende acties voor je uitvoeren. Jij schildert, wij regelen de rest.

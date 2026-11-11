@@ -78,4 +78,4 @@ Je hoeft geen dure website te laten bouwen. De basis is:
 
 Heb je nog geen goede website? Bekijk de mogelijkheden voor een [gratis website](/gratis-website) die al geoptimaliseerd is voor schilders.
 
-Wil je weten hoe je huidige website presteert? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je huidige website presteert? Vraag een [gratis scan](/gratis-scan) aan.

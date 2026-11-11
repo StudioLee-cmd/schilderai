@@ -72,4 +72,4 @@ Reageer altijd positief: "Geen probleem, ik snap het. Mocht je in de toekomst sc
 
 Je hoeft niet meer leads te genereren om meer opdrachten te krijgen. Je hoeft alleen de leads die je al hebt beter op te volgen. Door consequent binnen twee dagen op te volgen, drie contactmomenten in te plannen en het accepteren makkelijk te maken, haal je meer uit elke offerte die je verstuurt.
 
-Wil je weten hoeveel opdrachten je nu mist en waar de verbeterpunten zitten? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je online zichtbaarheid, je opvolging en concrete stappen om meer offertes om te zetten in opdrachten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoeveel opdrachten je nu mist en waar de verbeterpunten zitten? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je online zichtbaarheid, je opvolging en concrete stappen om meer offertes om te zetten in opdrachten.

@@ -68,6 +68,6 @@ De schilders die het meest succesvol zijn, hebben niet het grootste advertentieb
 
 Bij SchilderAI helpen we schilders met het opzetten van slimme samenwerkingen en automatisering. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Geen groei?
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

@@ -105,4 +105,4 @@ Doe dit consistent zes maanden en je staat in een totaal andere positie dan je c
 
 AI-zoeken staat aan het begin van een lange ontwikkeling. De spelregels van vandaag zijn niet identiek aan die van over twee jaar, maar de fundamenten (kwalitatieve content, helder gestructureerde informatie, sterke reviews, lokale autoriteit) blijven werken. Wie nu begint, bouwt voorsprong op terwijl het speelveld nog open is.
 
-Geen zin of tijd om dit zelf op te zetten? Wij bouwen complete AI-vindbaarheidssystemen voor schilders, met je eigen werkgebied, je eigen specialisaties en doorlopende monitoring van je AI-positie. [Vraag een gratis AI-scan aan](/gratis-scan) en we tonen waar je nu staat in ChatGPT, Perplexity en Google AI Overviews. Werkt het niet? Geld terug binnen 90 dagen, dat is de Groei-of-Geld-Terug Garantie.
+Geen zin of tijd om dit zelf op te zetten? Wij bouwen complete AI-vindbaarheidssystemen voor schilders, met je eigen werkgebied, je eigen specialisaties en doorlopende monitoring van je AI-positie. [Vraag een gratis AI-scan aan](/gratis-scan) en we tonen waar je nu staat in ChatGPT, Perplexity en Google AI Overviews. Werkt het niet?

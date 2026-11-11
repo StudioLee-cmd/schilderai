@@ -81,6 +81,4 @@ Dat is niet alleen een mooi idee. Dat is een keuze die binnen negen tot twaalf m
 
 Wij bouwen de volledige zichtbaarheid rond je gekozen niche in onze managed service: website, [Google Bedrijfsprofiel](/seo), reviews-flow en een contentstrategie die jouw specialisme voor lokale zoekers bovenaan zet. Binnen drie maanden is jouw niche jouw stempel in de regio.
 
-## Groei-of-Geld-Terug Garantie
-
-Als je nieuwe specialisatie na zes maanden niet meetbaar tot hogere dagtarieven of een vollere agenda leidt, krijg je je investering terug. Wil je eerst zien waar jouw niche ligt, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven). Jij schildert, wij regelen de rest.
+Wil je eerst zien waar jouw niche ligt, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven). Jij schildert, wij regelen de rest.

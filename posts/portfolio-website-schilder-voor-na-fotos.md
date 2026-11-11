@@ -90,7 +90,7 @@ Schilders die een visueel portfolio opbouwen rapporteren:
 
 Als schilder is je werk je visitekaartje. Maar alleen als mensen het kunnen zien. Een portfolio-website met sterke voor-en-na foto's is de eenvoudigste manier om meer klanten te trekken en je te onderscheiden van de concurrentie.
 
-Met [SchilderAI](/) helpen we je bij je online aanwezigheid — van portfolio tot social media. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [SchilderAI](/) helpen we je bij je online aanwezigheid — van portfolio tot social media. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je je werk beter laat zien.
 

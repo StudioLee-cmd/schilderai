@@ -82,6 +82,6 @@ Maak er een strategie van: lever uitzonderlijk werk bij de eerste klant, vraag a
 
 Bij SchilderAI helpen we schilders met het opzetten van een systeem dat mond-tot-mondreclame stimuleert en versterkt met online marketing. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug. Het risico ligt 100% bij ons.
+Geen groei? Het risico ligt 100% bij ons.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe je meer uit je bestaande klantkring kunt halen.

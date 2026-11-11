@@ -78,6 +78,6 @@ Bij Werkspot huur je klanten. Stop je met betalen? Dan verdwijn je. Bij Schilder
 - Je website wordt elke maand sterker
 - Je klantgegevens zijn altijd van jou
 
-En met onze **Groei-of-Geld-Terug Garantie** loop je geen enkel risico. Geen groei na drie maanden? Geld terug.
+Geen groei na drie maanden?
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoeveel je bespaart door te stoppen met Werkspot.

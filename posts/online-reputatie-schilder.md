@@ -78,6 +78,6 @@ De investering in je online reputatie betaalt zichzelf terug. Elke review is een
 
 Bij SchilderAI helpen we schilders met het automatiseren van reviewverzoeken en het opbouwen van een sterke online reputatie. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Geen groei?
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

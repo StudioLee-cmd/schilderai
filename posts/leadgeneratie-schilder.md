@@ -74,8 +74,6 @@ Vraag bij elke nieuwe klant: "Hoe heb je ons gevonden?" Houd dit bij in een simp
 
 Bij StudioLee bouwen we je online aanwezigheid uit zodat leads automatisch binnenkomen. Van [branding](/blog/personal-branding-schilder-regio) tot content marketing — alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek welke kanalen voor jou het best werken.
 
 ## Conclusie
