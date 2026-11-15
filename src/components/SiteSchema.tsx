@@ -11,7 +11,7 @@ import { footerDetails } from '@/data/footer';
  * schema vanzelf mee.
  *
  * Waarom alleen de homepage: dit is de pagina die het MERK aan Google uitlegt (de entity).
- * Blog-artikelen dragen hun eigen Article + BreadcrumbList, de service-pillars hun FAQPage —
+ * Blog-artikelen dragen hun eigen BlogPosting + BreadcrumbList, de service-pillars hun FAQPage —
  * die blijven ongemoeid.
  *
  * Bewust GEEN LocalBusiness: de niche-AI-merken zijn landelijke dienst-/SaaS-merken zonder
