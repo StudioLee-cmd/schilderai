@@ -60,6 +60,6 @@ Start met je 5 meest gevraagde diensten. Publiceer vanafprijzen met een duidelij
 
 Bij SchilderAI helpen we schilders met het optimaliseren van hun website en prijzenstrategie. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Geen groei?
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

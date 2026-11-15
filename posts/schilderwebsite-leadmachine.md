@@ -83,7 +83,7 @@ Je hoeft geen wekelijkse blogger te worden. Één artikel per maand over een rel
 
 Je bent schilder, geen webdeveloper. En dat hoeft ook niet. Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Website-optimalisatie, SEO, content, reviews — het wordt allemaal voor je geregeld.
 
-Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen groei in bereik? Geld terug. Het risico ligt 100% bij ons.
+Het risico ligt 100% bij ons.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek welke quick wins er voor jouw schilderwebsite zijn.
 

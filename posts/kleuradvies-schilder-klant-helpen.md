@@ -64,4 +64,4 @@ Deel je kleurwerk ook op [social media](/social-media). Een voor-en-na foto van 
 
 Schilderwerk gaat niet alleen over techniek. Het gaat over het eindresultaat dat de klant voor zich ziet. Door actief kleuradvies te geven, help je ze dat beeld concreet te maken. En een klant die het resultaat al voor zich ziet, zegt sneller ja.
 
-Wil je weten hoe jouw schildersbedrijf online beter kan presteren? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw schildersbedrijf online beter kan presteren? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.
