@@ -63,7 +63,7 @@ Het bijhouden van klantcontact kost tijd — tijd die je liever besteedt aan je 
 
 De winterdip is geen onvermijdelijk lot — het is een planningsprobleem. Schilders die hun marketing jaarrond draaien, actief binnenschilderwerk promoten en bestaande klanten warm houden, hebben ook in december een volle agenda.
 
-Met [SchilderAI](/) automatiseer je je klantcommunicatie en marketing het hele jaar door. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [SchilderAI](/) automatiseer je je klantcommunicatie en marketing het hele jaar door. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je de winterdip achter je laat.
 

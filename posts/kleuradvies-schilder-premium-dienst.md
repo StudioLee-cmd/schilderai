@@ -54,7 +54,7 @@ Maak voor-en-na foto's van elk project. Dit is je portfolio en je beste marketin
 
 Kleuradvies is een strategische dienst die je opdrachtwaarde verhoogt en je onderscheidt. Het kost 30 minuten per klant en levert honderden euro's extra op.
 
-Met [SchilderAI](/) helpen we schilders bij hun online presentatie en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [SchilderAI](/) helpen we schilders bij hun online presentatie en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer haalt uit elke opdracht.
 

@@ -81,16 +81,6 @@ En het mooiste: je hoeft er maar **15 minuten per maand** aan te besteden. Dat i
 
 Lees ook hoe je [meer klanten via Google](/blog/hoe-schilders-meer-klanten-vinden-via-google) om je volledige online strategie te versterken.
 
-## Groei-of-Geld-Terug Garantie
-
-Wij geloven zo sterk in ons systeem dat we een garantie bieden:
-
-- **Nulmeting op dag 1** — je ziet precies waar je staat in je dashboard
-- **Geen groei in reviews?** Geld terug.
-- **Het risico ligt 100% bij ons.** Jij hebt niets te verliezen.
-
-We werken met een kwartaalcommitment vanwege de software-investeringen die we doen. Maar als het niet werkt, betaal je niet.
-
 ## Conclusie
 
 Google reviews zijn geen "nice to have" — ze zijn essentieel voor elke schilder die online gevonden wil worden. Met de juiste aanpak en automatisering hoef je er zelf geen tijd aan te besteden en stromen de reviews vanzelf binnen.
