@@ -14,6 +14,9 @@ import { footerDetails } from '@/data/footer';
  * Blog-artikelen dragen hun eigen BlogPosting + BreadcrumbList, de service-pillars hun FAQPage —
  * die blijven ongemoeid.
  *
+ * Partnersite: geen description in het schema. De meta-description blijft zoals hij is (de
+ * rankings zijn nooit gemeten), maar zijn claim 'volledig automatisch' komt er niet nog eens bij.
+ *
  * Bewust GEEN LocalBusiness: de niche-AI-merken zijn landelijke dienst-/SaaS-merken zonder
  * eigen vestiging per niche. LocalBusiness zonder openingstijden, geo of publieks-vestiging
  * is schema-residu (doctrine technical_seo_audit: per pagina-type precies het juiste type,
@@ -51,7 +54,6 @@ const organization = {
     name: siteDetails.siteName,
     legalName: footerDetails.legalName,
     url: `${BASE}/`,
-    description: siteDetails.metadata.description,
     logo: {
         '@type': 'ImageObject',
         url: `${BASE}${siteDetails.siteLogo}`,
@@ -78,7 +80,6 @@ const website = {
     '@id': `${BASE}/#website`,
     url: `${BASE}/`,
     name: siteDetails.siteName,
-    description: siteDetails.metadata.description,
     inLanguage: siteDetails.language || 'nl-NL',
     publisher: { '@id': `${BASE}/#organization` },
 };
