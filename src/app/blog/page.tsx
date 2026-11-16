@@ -3,6 +3,7 @@ import { getAllPosts } from '@/utils/posts';
 import { getAuthorBySlug } from '@/data/authors';
 import Container from '@/components/Container';
 import BlogGrid from '@/components/BlogGrid';
+import BlogSearch from '@/components/BlogSearch';
 
 const CLUSTER_LABELS: Record<string, string> = {
     "voice-ai": "Voice AI",
@@ -86,6 +87,7 @@ const BlogPage = async () => {
                     </p>
                 </div>
 
+                <BlogSearch />
                 <BlogGrid posts={postsWithAuthors} clusters={clusters} />
             </Container>
         </div>
