@@ -13,7 +13,6 @@ import { Analytics } from "@vercel/analytics/next"
 
 import "./globals.css";
 import Script from 'next/script';
-import CookieBanner from "@/components/CookieBanner";
 
 const manrope = Manrope({ subsets: ['latin'] });
 const sourceSans = Source_Sans_3({ subsets: ['latin'] });
@@ -74,7 +73,6 @@ export default function RootLayout({
           <Footer />
           <Analytics />
         </ThemeProvider>
-        <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
         <Script id="waitlist-mode" strategy="afterInteractive">{("\n          (function(){\n            const intercept = (e) => {\n              const t = e.target && e.target.closest && e.target.closest('button, a');\n              if (!t) return;\n              if (t.closest('.waitlist-banner') || t.closest('header') || t.closest('nav')) return;\n              if (t.getAttribute('data-allow') === 'true') return;\n              const text = (t.innerText || t.textContent || '').toLowerCase().trim();\n              const href = (t.getAttribute('href') || '').toLowerCase();\n              const sale = /(start gratis|start nu|start voor|start mijn|proefperiode|14 dagen voor|gratis start|gratis proberen|gratis trial|free trial|plan een|book a call|book a demo|kies pakket|kies dit pakket|abonneren|aanmelden|registreer|betaal|bestel|nu kopen|koop nu|begin|aan de slag)/.test(text)\n                || /calendly\\.com|\\/\\/cal\\.com|tally\\.so|checkout|stripe\\.com\\/pay/.test(href);\n              if (sale) {\n                e.preventDefault();\n                e.stopImmediatePropagation();\n                window.location.href = 'mailto:" + publicContacts.primary.email + "?subject=Wachtlijst%20-%20' + encodeURIComponent(document.title);\n              }\n            };\n            document.addEventListener('click', intercept, true);\n          })();\n        ")}</Script>
       </body>
     </html>
